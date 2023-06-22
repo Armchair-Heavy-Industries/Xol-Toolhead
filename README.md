@@ -34,6 +34,7 @@ A reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed a
 * KlickyNG
 * Beacon
 * Euclid
+* Voron Design TAP
 
 ## RTFM
 * BOM [to do]
