@@ -50,7 +50,7 @@ Length | Ducts |
  |---|---|---|
  |Sherpa-Mini| [Xol Adapter Sherpa Mini.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter Sherpa Mini.stl>)| [TAP Adapter Sherpa Mini.stl](<STL/TAP Adapters/TAP Adapter Sherpa Mini.stl>)|
  |DFA|[Xol Adapter DFA.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter DFA.stl>) | N/A|
- |Vz-Hextrudort-Low|[Xol Adapter VZ-Hexdrudort-Low.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter VZ-Hexdrudort-Low.stl>) |[TAP Adapter VZ-Hexdrudort-Low.stl](<STL/TAP Adapters/TAP Adapter VZ-Hexdrudort-Low.stl>) |
+ |Vz-Hextrudort-Low /<br/>LGX-Lite|[Xol Adapter VZ-Hexdrudort-Low.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter VZ-Hexdrudort-Low.stl>) |[TAP Adapter VZ-Hexdrudort-Low.stl](<STL/TAP Adapters/TAP Adapter VZ-Hexdrudort-Low.stl>) |
  |Orbiter v2.0|[Xol Adapter Orbiter2.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter Orbiter2.stl>) | [TAP Adapter Orbiter2.stl](<STL/TAP Adapters/TAP Adapter Orbiter2.stl>)|
 
 
@@ -61,6 +61,7 @@ Length | Ducts |
 |Sherpa-Mini |[EBB36 Mount - Sherpa-Mini.stl](<STL/EBB Mounts/EBB36 Mount - Sherpa-Mini.stl>)|[EBB36 Mount - Sherpa-Mini [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - Sherpa-Mini [strain relief].stl>) |
 |DFA | {todo} | {todo} |
 |VZ-Hextrudort-Low | [EBB36 Mount - VZ-Hextrudort-Low.stl](<STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low.stl>) | [EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl>) |
+| LGX-Lite | {todo} | {todo} |
 |Orbiter v2.0 | [EBB36 Mount - Orbiter2.0.stl](<STL/EBB Mounts/EBB36 Mount - Orbiter2.0.stl>) | [EBB36 Mount - Orbiter2.0 [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - Orbiter2.0 [strain relief].stl>) |
  
 
