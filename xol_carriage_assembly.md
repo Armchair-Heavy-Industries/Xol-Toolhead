@@ -11,6 +11,8 @@ Notes | Image
  Attach rear part of carriage to mgn12 rail using <br />4 m3x6 BHCS | <img src='images/xol_carriage/xol_carriage_rear_attachtorail.png' width=300 />
  Install the m3x25mm pins into the belt clips | <img src='images/xol_carriage/belt_clip.png' width=300 />
  Install belts onto the belt clips | <img src='images/xol_carriage/belt_clip_with_belts.png' width=300 />
- Attach belts to carriage rear | <img src='images/xol_carriage/xol_carriage_rear_attachbelts.png' width=300 />
+ Attach belts to carriage rear <br/>`* Note orrientation of clips` | <img src='images/xol_carriage/xol_carriage_rear_attachbelts.png' width=300 />
  Attach front half of carriage with <br /> 4 m3x8 SHCS | <img src='images/xol_carriage/xol_carriage_front_attachtorail.png' width=300 />
- Install probe module to bottom of rear part of carriage with <br />2 m3x6 BHCS| <img src='images/xol_carriage/xol_carriage_attach_probe.png' width=300 />
+ Install probe module to bottom of rear part of carriage with <br />2 m3x6 BHCS | <img src='images/xol_carriage/xol_carriage_attach_probe.png' width=300 />
+
+⬅  [Printed parts](printing.md) - [Toolhead assembly](toolhead_assembly.md) ➡

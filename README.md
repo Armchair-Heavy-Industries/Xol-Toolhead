@@ -20,6 +20,7 @@ A reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed a
 * Red Lizard K1-UHF
 * Dragon UHF/Mini
 * Dragon SF/HF
+* Revo Voron
 
 ### Extruders
 * Sherpa Mini
@@ -34,10 +35,15 @@ A reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed a
 * KlickyNG
 * Beacon
 * Euclid
-* Voron Design TAP
+* Voron Design TAP (For RC8+, suggest to use m3x50 BHCS instead of SHCS)
 
-## RTFM
-* BOM [to do]
+### X-Rail/Belts
+* MGN12H - 6mm Belts
+* MGN9H - 6mm Belts
+* MGN9H - 9mm Belts
+
+## Please follow the documents below for BOM, printing and assembly instructions
+* [Bill of Materials (BOM)](BOM.md)
 * [Printing parts](printing.md)
-* [Xol-Carriage assembly](xol_carriage_assembly.md)
-* [Xol-Toolhead assembly](toolhead_assembly.md)
+* [Carriage assembly](xol_carriage_assembly.md)
+* [Toolhead assembly](toolhead_assembly.md)
