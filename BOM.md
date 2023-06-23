@@ -1,4 +1,6 @@
 # Xol Toolhead Bill of Materials (BOM)
+Read all the sections below to understand your hardware requirements. 
+
 ## Carriage
 
 #### Required Hardware
@@ -17,11 +19,35 @@
 |2 | M3 Heatset Insert| If not using m2.5 heatsets for toolhead feet attachment|
 
 #### Probe Hardware
+Follow probe instructions for required hardware. Where possible, self tapping screws have been replaced with heatset hardware, usually M2.
 
-
-`* If using Voron Desing TAP RC8+ we suggest you replace the two m3x50 SHCS with BHCS to improve build plate clearance.`
+`* If using Voron Desing TAP RC8+ it is recommended to replace the two M3 x 50 SHCS with M3 x 50 BHCS to improve build plate clearance.`
 
 ## Toolhead
+
+#### Required Hardware
+| Qty | Item | Notes|
+|-----|------|------|
+|4 | M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts <br/> * 2x HE Mount <br/>* 2x Adapter plate|
+|2 | M2.5 Heatset Insert | Outer Diameter 3.5 x Length 4mm <br/> HE Mount "Feet" rear mount |
+|4 | M2 Heatset Insert | Outer Diameter 3.5 x Length 4mm <br/> Part cooling fan and duct mounting|
+|2 | M3 x 20 SCHS | HE Mount |
+|2 | M3 x ?? SHCS | Extruder to HE Mount. Length varies depending on extruder used |
+|2*| M3 x 16 SHCS | HE Mount feet if using Voron TAP or not using M2.5 hardware |
+|2 | M3 x 8 SHCS | HE Adapter to carriage |
+|4 | M2.5 x 20 SHCS | HE Fan <br/>`Replace with M2.5 x 16 SHCS if using HE Fan heatset inserts` |
+|2 | M2.5 x 12 SHCS | HE Mount "Feet" rear mount|
+|6 | M2 x 12 SHCS | Part cooling fan and duct mounting |
+|2 | M2 x 8 SHCS | Part cooling fan and duct mounting - top rear screws |
+
+#### Optional Hardware
+| Qty | Item | Notes|
+|-----|------|------|
+|1 | M3 Heatset Insert| Sherpa-Mini K-plate attachment|
+|1 | M3 Heatset Insert| DFA Custom bottom|
+|2 | M3 Heatset Insert| *If not using M2.5 hardware for HE Mount "feet" |
+|1 | M2 Heatset Insert | Outer Diameter 3.5 x Length 4mm <br/>X End stop|
+|1 | M2 x 10 SHCS | X End stop|
 
 
 ⬅ [README](README.md) - [Printed Parts](printing.md) ➡
