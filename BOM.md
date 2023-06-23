@@ -29,12 +29,14 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 | Qty | Item | Notes|
 |-----|------|------|
 |4 | M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts <br/> * 2x HE Mount <br/>* 2x Adapter plate|
-|2 | M2.5 Heatset Insert | Outer Diameter 3.5 x Length 4mm <br/> HE Mount "Feet" rear mount |
-|4 | M2 Heatset Insert | Outer Diameter 3.5 x Length 4mm <br/> Part cooling fan and duct mounting|
+|2 | M2.5 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> HE Mount "Feet" rear mount |
+|4 | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting|
+|2 | M3 x 20 Metal Stand-off | CAN/EBB Mounting |
 |2 | M3 x 20 SCHS | HE Mount |
 |2 | M3 x ?? SHCS | Extruder to HE Mount. Length varies depending on extruder used |
-|2*| M3 x 16 SHCS | HE Mount feet if using Voron TAP or not using M2.5 hardware |
-|2 | M3 x 8 SHCS | HE Adapter to carriage |
+|4*| M3 x 16 SHCS | 2x Extruder stepper to standoff<br/>*2x HE Mount feet if using Voron TAP or not using M2.5 hardware |
+|2 | M2 x 12 SHCS | CAN/EBB 36 mount
+|3 | M3 x 8 SHCS | 2x HE Adapter to carriage, 1x EBB Mount |
 |4 | M2.5 x 20 SHCS | HE Fan <br/>`Replace with M2.5 x 16 SHCS if using HE Fan heatset inserts` |
 |2 | M2.5 x 12 SHCS | HE Mount "Feet" rear mount|
 |6 | M2 x 12 SHCS | Part cooling fan and duct mounting |
@@ -46,8 +48,9 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 |1 | M3 Heatset Insert| Sherpa-Mini K-plate attachment|
 |1 | M3 Heatset Insert| DFA Custom bottom|
 |2 | M3 Heatset Insert| *If not using M2.5 hardware for HE Mount "feet" |
-|1 | M2 Heatset Insert | Outer Diameter 3.5 x Length 4mm <br/>X End stop|
+|1 | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/>X End stop|
 |1 | M2 x 10 SHCS | X End stop|
+|1 | Stealthburner Neopixel LED harness | If using LED ducts and faceplate <br/>`custom neopixel harness if using only duct LEDs` |
 
 
 ⬅ [README](README.md) - [Printed Parts](printing.md) ➡

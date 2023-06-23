@@ -3,6 +3,9 @@
 ### Xol parts are not scaled to suit any particular filament. You will need to calibrate your printer/filament appropriately before printing Xol Parts
 
 It is recommended to print a calibration part of a known size and adjust slicer shrinkage compensation.
+Here is are two STLs of one belt clip and a portion of the rear carriage where the belt clip should attach. It is recommended to use this part to ensure your printer/filament is calibrated. These parts and the M3 pin should snap together with a satisfying "click" but not be too tight to take apart.
+* [Xol_Carriage_test_piece_6mm belts](<STL/Test Prints/Xol_Carriage_test_piece_6mm.stl>)
+* [Xol_Carriage_test_piece_9mm belts](<STL/Test Prints/Xol_Carriage_test_piece_9mm.stl>)
 
 ## What to print
 There are many combinations of carriages/hotends/extruders that can be used with Xol. The tables below outline what you should print
@@ -26,15 +29,29 @@ Hotend | Sherpa Mini| DFA | Vz-Hextrudort-Low/LGX-Lite | Orbiter 2.0
 
 #### Ducts
 Print the ducts that match the length of your hotend and if you are using LEDs or not.
-Some Trident installs require a special right hand duct to prevent contact with top of ball screw when homing X with carriage at front of build plate.
+Some Trident installs require a different right hand duct to prevent contact with top of ball screw when homing X with carriage at front of build plate.
 
-
-Length | Duct | Trident right duct
----------|----------|---------
- Standard length<br/>*Rapido HF<br/>*XG<br/>*Red Lizard<br/>*Dragon SF/HF/UHF Mini/Crazy Volcano | Standard [STL Link]<br/>LED [STL Link] | Standard [STL Link]<br/>LED [STL Link] 
- UHF Length<br/>*Rapido UHF<br/>*Dragon UHF  Standard [STL Link]<br/>LED [STL Link] | Standard [STL Link]<br/>LED [STL Link]  | Standard [STL Link]<br/>LED [STL Link] 
+Length | Ducts |
+---------|----------|
+ Standard length<br/>*Rapido HF<br/>*XG<br/>*Red Lizard<br/>*Dragon SF/HF/UHF Mini/Crazy Volcano | Standard <br/>* [Left](<STL/Ducts/Xol Ducts - Tri-Vane Asym Left.stl>)<br/>* [Right](<STL/Ducts/Xol Ducts - Tri-Vane Asym Right.stl>)<br/>* [Right (Trident)](<STL/Ducts/Xol Ducts - Tri-Vane Asym Right - Trident.stl>) <br/><br/>LED<br/>* [Left LED](<STL/Ducts/Xol LED Ducts - Tri-Vane Asym Left.stl>)<br/>* [Right LED](<STL/Ducts/Xol LED Ducts - Tri-Vane Asym Right.stl>)<br/>* [Right LED (Trident)](<STL/Ducts/Xol LED Ducts - Tri-Vane Asym Right - Trident.stl>) | Standard [STL Link]<br/>LED [STL Link] |
+ UHF Length<br/>*Rapido UHF<br/>*Dragon UHF  | Standard <br/>* [Left UHF](<STL/Ducts/Xol Ducts UHF - Tri-Vane Asym Left.stl>)<br/>* [Right UHF](<STL/Ducts/Xol Ducts UHF - Tri-Vane Asym Right.stl>)<br/>* [Right UHF (Trident)](<STL/Ducts/Xol Ducts UHF - Tri-Vane Asym Right - Trident.stl>) <br/><br/>LED<br/>* [LED UHF Left](<STL/Ducts/Xol LED Ducts UHF - Tri-Vane Asym Left.stl>)<br/>* [LED UHF Right](<STL/Ducts/Xol LED Ducts UHF - Tri-Vane Asym Right.stl>)<br/>* [LED UHF Right (Trident)](<STL/Ducts/Xol LED Ducts UHF - Tri-Vane Asym Right - Trident.stl>) |
  
  #### Faceplates
+ Print parts from one cell of the table below.
+ |Hotend Mount|Without LED|With LED|
+ |---|---|---|
+ |*All except below| Front: [Faceplate - standard - front.stl](<STL/Faceplates/Faceplate - standard - front.stl>) <br/>Rear: [Faceplate - standard - rear.stl](<STL/Faceplates/Faceplate - standard - rear.stl>)| Front Option 1: [Faceplate - LED - Front.stl](<STL/Faceplates/Faceplate - LED - Front.stl>) <br/>Front Option 2: [Faceplate - LED - Front [southern hemisphere edition].stl](<STL/Faceplates/Faceplate - LED - Front [southern hemisphere edition].stl>) <br/> Rear: [Faceplate - LED - Rear.stl](<STL/Faceplates/Faceplate - LED - Rear.stl>)<br/>Diffuser: [[white] LED diffuser.stl](<STL/Faceplates/[white] LED diffuser.stl>)|
+ |DropEffect XG|One piece: [Faceplate - standard - XG.stl](<STL/Faceplates/Faceplate - standard - XG.stl>)| Use front option 1 or 2, and diffuser above<br/>Rear: [Faceplate - LED - Rear - XG.stl](<STL/Faceplates/Faceplate - LED - Rear - XG.stl>) <br/>Spacer: [Faceplate - LED - Spacer - XG.stl](<STL/Faceplates/Faceplate - LED - Spacer - XG.stl>)
+
+
+ #### EBB 36 Mount
+ Print the EBB 36 mount to suit your CAN or break-out board / extruder combination.
+| Extruder | Without strain relief | With strain relief|
+|-----|------|------|
+|Sherpa-Mini |[EBB36 Mount - Sherpa-Mini.stl](<STL/EBB Mounts/EBB36 Mount - Sherpa-Mini.stl>)|[EBB36 Mount - Sherpa-Mini [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - Sherpa-Mini [strain relief].stl>) |
+|DFA | {todo} | {todo} |
+|VZ-Hextrudort-Low | [EBB36 Mount - VZ-Hextrudort-Low.stl](<STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low.stl>) | [EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl>) |
+|Orbiter v2.0 | [EBB36 Mount - Orbiter2.0.stl](<STL/EBB Mounts/EBB36 Mount - Orbiter2.0.stl>) | [EBB36 Mount - Orbiter2.0 [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - Orbiter2.0 [strain relief].stl>) |
  
 
 ⬅ [BOM](BOM.md) - [Carriage assembly](xol_carriage_assembly.md) ➡
