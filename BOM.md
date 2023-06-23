@@ -1,5 +1,5 @@
 # Xol Toolhead Bill of Materials (BOM)
-Read all the sections below to understand your hardware requirements. 
+Read **ALL** of the sections below to understand your hardware requirements. 
 
 ## Carriage
 

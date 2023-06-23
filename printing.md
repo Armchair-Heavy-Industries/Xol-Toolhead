@@ -3,7 +3,7 @@
 ### Xol parts are not scaled to suit any particular filament. You will need to calibrate your printer/filament appropriately before printing Xol Parts
 
 It is recommended to print a calibration part of a known size and adjust slicer shrinkage compensation.
-Here is are two STLs of one belt clip and a portion of the rear carriage where the belt clip should attach. It is recommended to use this part to ensure your printer/filament is calibrated. These parts and the M3 pin should snap together with a satisfying "click" but not be too tight to take apart.
+There are two test STLs below that include one belt clip and a portion of the rear carriage where the belt clip should attach. It is recommended to use this part to ensure your printer/filament is calibrated. These parts and the M3 pin should snap together with a satisfying "click" but not be too tight to take apart.
 * [Xol_Carriage_test_piece_6mm belts](<STL/Test Prints/Xol_Carriage_test_piece_6mm.stl>)
 * [Xol_Carriage_test_piece_9mm belts](<STL/Test Prints/Xol_Carriage_test_piece_9mm.stl>)
 
