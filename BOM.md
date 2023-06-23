@@ -21,7 +21,7 @@ Read **ALL** of the sections below to understand your hardware requirements.
 #### Probe Hardware
 Follow probe instructions for required hardware. Where possible, self tapping screws have been replaced with heatset hardware, usually M2.
 
-`* If using Voron Desing TAP RC8+ it is recommended to replace the two M3 x 50 SHCS with M3 x 50 BHCS to improve build plate clearance.`
+`* If using Voron Design TAP RC8+ it is recommended to replace the two M3 x 50 SHCS with M3 x 50 BHCS to improve build plate clearance.`
 
 ## Toolhead
 
