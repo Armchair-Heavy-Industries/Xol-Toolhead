@@ -44,6 +44,16 @@ Length | Ducts |
  |DropEffect XG|One piece: [Faceplate - standard - XG.stl](<STL/Faceplates/Faceplate - standard - XG.stl>)| Use front option 1 or 2, and diffuser above<br/>Rear: [Faceplate - LED - Rear - XG.stl](<STL/Faceplates/Faceplate - LED - Rear - XG.stl>) <br/>Spacer: [Faceplate - LED - Spacer - XG.stl](<STL/Faceplates/Faceplate - LED - Spacer - XG.stl>)
 
 
+ #### Adapter Plates
+ Print the adapter plate to match your extruder/carriage combination
+ |Extruder|Xol Carriage|Voron TAP|
+ |---|---|---|
+ |Sherpa-Mini| [Xol Adapter Sherpa Mini.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter Sherpa Mini.stl>)| [TAP Adapter Sherpa Mini.stl](<STL/TAP Adapters/TAP Adapter Sherpa Mini.stl>)|
+ |DFA|[Xol Adapter DFA.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter DFA.stl>) | N/A|
+ |Vz-Hextrudort-Low|[Xol Adapter VZ-Hexdrudort-Low.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter VZ-Hexdrudort-Low.stl>) |[TAP Adapter VZ-Hexdrudort-Low.stl](<STL/TAP Adapters/TAP Adapter VZ-Hexdrudort-Low.stl>) |
+ |Orbiter v2.0|[Xol Adapter Orbiter2.stl](<STL/Xol-Carriage/Xol Carriage Adapters/Xol Adapter Orbiter2.stl>) | [TAP Adapter Orbiter2.stl](<STL/TAP Adapters/TAP Adapter Orbiter2.stl>)|
+
+
  #### EBB 36 Mount
  Print the EBB 36 mount to suit your CAN or break-out board / extruder combination.
 | Extruder | Without strain relief | With strain relief|
