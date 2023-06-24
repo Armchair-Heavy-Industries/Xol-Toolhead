@@ -1,5 +1,6 @@
 # Xol Toolhead Bill of Materials (BOM)
-Read **ALL** of the sections below to understand your hardware requirements. 
+Read **ALL** of the sections below to understand your hardware requirements, there's some bits here that aren't on a standard Voron build BOM.
+The chances are that something was missed, but if you have a good mix of M2, M2.5 and M3 hardware you'll probably still end up with a working printer.
 
 ## Carriage
 
