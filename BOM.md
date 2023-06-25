@@ -42,6 +42,7 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 |2 | M2.5 x 12 SHCS | HE Mount "Feet" rear mount|
 |6 | M2 x 12 SHCS | Part cooling fan and duct mounting |
 |2 | M2 x 8 SHCS | Part cooling fan and duct mounting - top rear screws |
+|1 | Short PTFE tube | Between extruder and hotend |
 
 #### Optional Hardware
 | Qty | Item | Notes|

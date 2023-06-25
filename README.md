@@ -1,6 +1,6 @@
 # BETA EXPERIMENTAL
 # Xol Toolhead
-A reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed at modularity and quality of life improvements for installation and serviceability. But don't worry, it's still ugly.
+A reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed at modularity and quality of life improvements for installation and serviceability. Don't worry, it's still ugly, we couldn't fix that.
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
@@ -10,7 +10,7 @@ A reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed a
 * Xol-Carriage
   * A new carriage built for Xol-Toolhead
   * Metal pins and clamp/clip used to secure belts instead of squashed between mgn9/12 carriage and toolhead carriage
-  * Improved serviceability - remove the toolhead from the carriage without disassembly in the printer. Unless you use Voron TAP. Even we can't make 
+  * Improved serviceability - remove the toolhead from the carriage without disassembly in the printer. Unless you use Voron TAP or refuse to buy M2.5 hardware for Xol Carriage. 
   * Modular probe mounting system - change probes without changing the whole carriage _*Except for KlickyNG_
 
 ## Supported hardware
