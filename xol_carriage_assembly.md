@@ -13,6 +13,6 @@ Notes | Image
  Install belts onto the belt clips<br/>There's a front and a back to the clips, I trust you to figure it out. | <img src='images/xol_carriage/belt_clip_with_belts.png' width=300 /><br/><img src='images/xol_carriage/belt_clip_with_belts_back.png' width=300 />
  Attach the belts and take in the satisfying "snap" as they go in. <br/>`* If you can see the work "BACK" now you mucked it up` | <img src='images/xol_carriage/xol_carriage_rear_attachbelts.png' width=300 />
  Time to put on the carriage front with <br /> 4 m3x8 SHCS | <img src='images/xol_carriage/xol_carriage_front_attachtorail.png' width=300 />
- It's probe time. use <br />2 m3x6 BHCS | <img src='images/xol_carriage/xol_carriage_attach_probe.png' width=300 />
+ It's probing time, insert <br />2 m3x6 BHCS | <img src='images/xol_carriage/xol_carriage_attach_probe.png' width=300 />
 
 ⬅  [Printed parts](printing.md) - [Toolhead assembly](toolhead_assembly.md) ➡
