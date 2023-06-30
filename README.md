@@ -11,9 +11,9 @@ A soft reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) ai
   * This approach reduces the number of hotend mounts and ducts by half - You don't have to search for TAP or non-TAP and we don't have to maintain twice as many parts
 * Xol-Carriage
   * A new carriage built for Xol-Toolhead
-  * Uses metal pins and a belt clip to secure the belts instead of squashed between mgn9/12 carriage and toolhead carriage
+  * Uses metal pins and a belt clip to secure the belts instead of having them squashed between mgn9/12 carriage and toolhead carriage
   * Improved serviceability - remove the toolhead from the carriage without disassembly in the printer. Unless you use Voron TAP or refuse to buy M2.5 hardware for Xol Carriage. Buy the m2.5 hardware, it's worth it trust us.
-  * Modular probe mounting system - change probes without changing the whole carriage _*Except for KlickyNG_
+  * Modular probe mounting system - change probes without changing the whole carriage _`*Except for KlickyNG`_
 
 ## Supported hardware
 ### Hotends
@@ -53,3 +53,7 @@ They took ages to make, please read them.
 
 
 ## Acknowledgements
+* Everyone listed on the Xol 2 page
+* All the Armchair Engineering team
+* All the probe developers
+* Everyone who has helped with testing and feedback. Thank you.
