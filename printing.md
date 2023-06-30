@@ -63,6 +63,19 @@ Length | Ducts |
 |VZ-Hextrudort-Low | [EBB36 Mount - VZ-Hextrudort-Low.stl](<STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low.stl>) | [EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - VZ-Hextrudort-Low [strain relief].stl>) |
 | LGX-Lite | {todo} | {todo} |
 |Orbiter v2.0 | [EBB36 Mount - Orbiter2.0.stl](<STL/EBB Mounts/EBB36 Mount - Orbiter2.0.stl>) | [EBB36 Mount - Orbiter2.0 [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - Orbiter2.0 [strain relief].stl>) |
+
+
+#### Probe Modules
+ You want to probe it, right?
+ |Probe|Standard Length|UHF Length|
+ |---|---|---|
+ | PCB Klicky | [licky_PCB_Module.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module.stl>) | [Probe Modules/Klicky_PCB_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module_UHF.stl>) |
+ | Klicky | [Klicky_Module.stl](<STL/Xol-Carriage/Probe Modules/Klicky_Module.stl>) | [Klicky_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Klicky_Module_UHF.stl>) |
+ | KlickyNG | [KlickyNG_Module.stl](<STL/Xol-Carriage/Probe Modules/KlickyNG_Module.stl>) <br/>`*non-standard carriage front`| N/A |
+ | Beacon | [Beacon_Module.stl](<STL/Xol-Carriage/Probe Modules/Beacon_Module.stl>) | [Beacon_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Beacon_Module_UHF.stl>) |
+ | Euclid | [Euclid_Module.stl](<STL/Xol-Carriage/Probe Modules/Euclid_Module.stl>) | [Euclid_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Euclid_Module_UHF.stl>) |
+ | Euclid rotated 90° | [Euclid_Module_90.stl](<STL/Xol-Carriage/Probe Modules/Euclid_Module_90.stl>) | [Euclid_Module_90_UHF.stl](<STL/Xol-Carriage/Probe Modules/Euclid_Module_90_UHF.stl>) |
+ | Voron TAP | Almost had you| Ask Voron Design|
  
 
 ⬅ [BOM](BOM.md) - [Carriage assembly](xol_carriage_assembly.md) ➡
