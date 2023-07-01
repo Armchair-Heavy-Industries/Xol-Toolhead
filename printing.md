@@ -69,7 +69,7 @@ Length | Ducts |
  You want to probe it, right?
  |Probe|Standard Length|UHF Length|
  |---|---|---|
- | PCB Klicky | [licky_PCB_Module.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module.stl>) | [Probe Modules/Klicky_PCB_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module_UHF.stl>) |
+ | PCB Klicky | [Klicky_PCB_Module.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module.stl>) | [Probe Modules/Klicky_PCB_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module_UHF.stl>) |
  | Klicky | [Klicky_Module.stl](<STL/Xol-Carriage/Probe Modules/Klicky_Module.stl>) | [Klicky_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Klicky_Module_UHF.stl>) |
  | KlickyNG | [KlickyNG_Module.stl](<STL/Xol-Carriage/Probe Modules/KlickyNG_Module.stl>) <br/>`*non-standard carriage front`| N/A |
  | Beacon | [Beacon_Module.stl](<STL/Xol-Carriage/Probe Modules/Beacon_Module.stl>) | [Beacon_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Beacon_Module_UHF.stl>) |
