@@ -26,17 +26,19 @@ The details below are for Rapido and Sherpa-Mini. We have faith that you can wor
 
 ### Here lie the instructions for installing Xol Toolhead on Voron TAP. 
 If you haven't noticed yet, it's easier on Xol Carriage, but we get it TAP is TAP.
+
+
 |Notes | Image |
 |---------|----------|
+| `Install TAP into your printer as per Voron Design instructions` <br/> <br/> Once that's done, install the TAP adapter printed part for your extruder with <br/> * 2x M3 x 8 SHCS | <img src='images\tap_toolhead\attach_tap_adapter.png' width=300 /> |
+| Install heatsets as per instructions above <br/> `Make sure not to put any in the feet. You may need to run an M3 drill through the feet too.` | <img src='images\tap_toolhead\lower_toolhead_no_heatsets.png' width=300 /> |
+| Assemble the hotend mount with 2510 HE cooling fan, faceplate parts and loosly attach the part cooling fans using the top screws only.  | <img src='images\tap_toolhead\lower_toolhead_no_ducts.png' width=300 /> |
+| Now you can put the mostly assembled hotent mount parts onto TAP using <br/> * 2x M3 x 20 SHCS, and <br/> * 2x M3 x 12 SCHS <br/> <br/> <br/> `Make sure you have the PTFE tube that goes between the extruder and hotend installed before moving onto the next step. Failure to do so will end in tears` | <img src='images\tap_toolhead\hotend_mount_to_TAP.png' width=300 /> |
+| Now you can attach the ducts and tighten all the m2 screws holding them, and the part cooling fans, on.<br/> <br/> <br/> `Make sure you have the PTFE tube that goes between the extruder and hotend installed before moving onto the next step. Failure to do so will end in tears`  | <img src='images\tap_toolhead\attach_ducts.png' width=300 /> |
 | | <img src='' width=300 /> |
 | | <img src='' width=300 /> |
 | | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
+| | <img src='images\tap_toolhead\tap_dragonUHF_orbiter.png' width=300 /> |
 
 
  ⬅ [Carriage assembly](xol_carriage_assembly.md)
