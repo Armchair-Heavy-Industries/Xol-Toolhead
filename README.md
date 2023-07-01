@@ -4,7 +4,7 @@ A soft reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) ai
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
-<img src='images/full_assembly.png' width=350 />
+<img src='images/full_assembly.png' width=600 />
 
 ## What's new
 * Standardised hotend mounts around the Voron Design CW2/TAP carriage bolt hole pattern.
