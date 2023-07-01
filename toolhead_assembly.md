@@ -35,10 +35,8 @@ If you haven't noticed yet, it's easier on Xol Carriage, but we get it TAP is TA
 | Assemble the hotend mount with 2510 HE cooling fan, faceplate parts and loosly attach the part cooling fans using the top screws only.  | <img src='images\tap_toolhead\lower_toolhead_no_ducts.png' width=300 /> |
 | Now you can put the mostly assembled hotent mount parts onto TAP using <br/> * 2x M3 x 20 SHCS, and <br/> * 2x M3 x 12 SCHS <br/> <br/> <br/> `Make sure you have the PTFE tube that goes between the extruder and hotend installed before moving onto the next step. Failure to do so will end in tears` | <img src='images\tap_toolhead\hotend_mount_to_TAP.png' width=300 /> |
 | Now you can attach the ducts and tighten all the m2 screws holding them, and the part cooling fans, on.<br/> <br/> <br/> `Make sure you have the PTFE tube that goes between the extruder and hotend installed before moving onto the next step. Failure to do so will end in tears`  | <img src='images\tap_toolhead\attach_ducts.png' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='' width=300 /> |
-| | <img src='images\tap_toolhead\tap_dragonUHF_orbiter.png' width=300 /> |
+| Put your extruder, stand offs, EBB board mount and EBB board together. | <img src='images\tap_toolhead\extruder_and_board.png' width=300 /> |
+| Attach your extruder/board etc. to the top of the TAP adapter plate. <br/> You're ready to finish wiring, software config and start printing. Sounds simples right? | <img src='images\tap_toolhead\tap_dragonUHF_orbiter.png' width=300 /> |
 
 
  ⬅ [Carriage assembly](xol_carriage_assembly.md)
