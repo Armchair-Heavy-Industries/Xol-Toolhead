@@ -66,7 +66,7 @@ Length | Ducts |
 
 
 #### Probe Modules
- You want to probe it, right?
+ You want to probe it, right? <br/> `Probe length should match the duct length (standard or UHF)`
  |Probe|Standard Length|UHF Length|
  |---|---|---|
  | PCB Klicky | [Klicky_PCB_Module.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module.stl>) | [Probe Modules/Klicky_PCB_Module_UHF.stl](<STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module_UHF.stl>) |
