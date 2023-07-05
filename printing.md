@@ -13,7 +13,7 @@ There are many combinations of carriages/hotends/extruders that can be used with
 #### Carriage
 **Xol Carriage** | **Voron Design TAP** 
 ---------|----------
-1x Xol Carriage Rear<br /> 1x Xol Carriage Front<br /> 2x Belt Clip <br /> 1x Probe Module to suit your probe  | Follow instructions from Voron Design <br /> _Use at least TAP RC8 and replace m3x50 SCHS with m3x50 BHCS_
+1x Xol Carriage Rear<br /> 1x Xol Carriage Front<br /> 2x Belt Clip <br /> 1x Probe Module to suit your probe  | Follow instructions from Voron Design <br /> _Use at least TAP RC8 and replace M3x50 SCHS with M3x50 BHCS_
 
 #### Hotend Mount
 Pick one option from the matrix of Hotends and Extruders below
