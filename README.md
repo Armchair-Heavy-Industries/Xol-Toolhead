@@ -1,4 +1,3 @@
-# BETA EXPERIMENTAL
 # Xol Toolhead
 A soft reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed at modularity and quality of life improvements for installation and serviceability. Don't worry, it's still ugly, we couldn't fix that.
 
@@ -53,7 +52,13 @@ They took ages to make, please read them.
 
 
 ## Acknowledgements
-* Everyone listed on the Xol 2 page
-* All the Armchair Engineering team
-* All the probe developers
-* Everyone who has helped with testing and feedback. Thank you.
+* [Dw-Tas](https://github.com/DW-Tas) for giving Xol the giant refresh it needed.
+* [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.<br/>
+* [Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, feedback, and just being a rad dude.<br/>
+* [KayosMaker](https://github.com/KayosMaker) for the MGN12 Klicky X-Carriage and CAN board mounts and spacers.<br/>
+* [JosAr](https://github.com/jlas1/Klicky-Probe) for Klicky.<br/>
+* [WhoppingPochard](https://github.com/tanaes) and [VinnyCordeiro](https://github.com/VinnyCordeiro/) for PCB Klicky.<br/>
+* [Nionio6915](https://github.com/nionio6915/Euclid_Probe) for Euclid. <br/>
+* [VoronDesign](https://github.com/VoronDesign) for this particular CoreXY flavor.<br/>
+* [AnnexEngineering](https://github.com/Annex-Engineering) for the Sherpa Mini and Double Folded Ascender extruders, and the K3 that influenced the air management of the ducts. And also for giving access to an early revision of the new DFA so it could be adapted for this toolhead.<br/>
+* [Clee](https://github.com/clee), you know what you did.
