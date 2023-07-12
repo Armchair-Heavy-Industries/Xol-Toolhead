@@ -13,6 +13,7 @@ A soft reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) ai
   * Uses metal pins and a belt clip to secure the belts instead of having them squashed between mgn9/12 carriage and toolhead carriage
   * Improved serviceability - remove the toolhead from the carriage without disassembly in the printer. Unless you use Voron TAP or refuse to buy M2.5 hardware for Xol Carriage. Buy the m2.5 hardware, it's worth it trust us.
   * Modular probe mounting system - change probes without changing the whole carriage _`*Except for KlickyNG`_
+* These carriage changes mean you can use any carriage that a Stealthburner bolts onto. (Our Xol-Carriage, or the stock voron carriage even.
 
 ## Supported hardware
 ### Hotends
