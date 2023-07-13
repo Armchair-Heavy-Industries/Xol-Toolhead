@@ -56,7 +56,7 @@ They took ages to make, please read them.
 * [DW-Tas](https://github.com/DW-Tas) for giving Xol the giant refresh it needed.
 * [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.
 * [Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, feedback, and just being a rad dude.
-* [KayosMaker](https://github.com/KayosMaker) for the MGN12 Klicky X-Carriage and CAN board mounts and spacers.
+* [KayosMaker](https://github.com/KayosMaker) for the CAN board mounts and spacers.
 * [JosAr](https://github.com/jlas1/Klicky-Probe) for Klicky.
 * [WhoppingPochard](https://github.com/tanaes) and [VinnyCordeiro](https://github.com/VinnyCordeiro/) for PCB Klicky.
 * [Nionio6915](https://github.com/nionio6915/Euclid_Probe) for Euclid.
