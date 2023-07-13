@@ -53,13 +53,13 @@ They took ages to make, please read them.
 
 
 ## Acknowledgements
-* [Dw-Tas](https://github.com/DW-Tas) for giving Xol the giant refresh it needed.
-* [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.<br/>
-* [Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, feedback, and just being a rad dude.<br/>
-* [KayosMaker](https://github.com/KayosMaker) for the MGN12 Klicky X-Carriage and CAN board mounts and spacers.<br/>
-* [JosAr](https://github.com/jlas1/Klicky-Probe) for Klicky.<br/>
-* [WhoppingPochard](https://github.com/tanaes) and [VinnyCordeiro](https://github.com/VinnyCordeiro/) for PCB Klicky.<br/>
-* [Nionio6915](https://github.com/nionio6915/Euclid_Probe) for Euclid. <br/>
-* [VoronDesign](https://github.com/VoronDesign) for this particular CoreXY flavor.<br/>
-* [AnnexEngineering](https://github.com/Annex-Engineering) for the Sherpa Mini and Double Folded Ascender extruders, and the K3 that influenced the air management of the ducts. And also for giving access to an early revision of the new DFA so it could be adapted for this toolhead.<br/>
-* [Clee](https://github.com/clee), you know what you did.
+* [DW-Tas](https://github.com/DW-Tas) for giving Xol the giant refresh it needed.
+* [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.
+* [Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, feedback, and just being a rad dude.
+* [KayosMaker](https://github.com/KayosMaker) for the MGN12 Klicky X-Carriage and CAN board mounts and spacers.
+* [JosAr](https://github.com/jlas1/Klicky-Probe) for Klicky.
+* [WhoppingPochard](https://github.com/tanaes) and [VinnyCordeiro](https://github.com/VinnyCordeiro/) for PCB Klicky.
+* [Nionio6915](https://github.com/nionio6915/Euclid_Probe) for Euclid.
+* [VoronDesign](https://github.com/VoronDesign) for this particular CoreXY flavor.
+* [AnnexEngineering](https://github.com/Annex-Engineering) for the Sherpa Mini and Double Folded Ascender extruders, and the K3 that influenced the air management of the ducts. And also for giving access to an early revision of the new DFA so it could be adapted for this toolhead.
+* [clee](https://github.com/clee), you know what you did.

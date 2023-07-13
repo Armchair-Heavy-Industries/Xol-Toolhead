@@ -3,7 +3,7 @@
 
 
 
-Notes | Image 
+Notes | Image
 ---------|----------
  Get the carriage rear ready by installing <br /> * 3 M3 heatsets<br />* 4 M3 hex nuts <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>`For MGN9 Carriage variants, replace 2 M3 hex nuts with 2 M3 heatsets` | <img src='images/xol_carriage/xol_carriage_rear_hardware.png' width=300 /> <br/> <img src='images/xol_carriage/xol_carriage_rear_hardware_mgn9.png' width=150 />
  Add the hardware to carriage front <br />* 2 M3 heatsets <br/><br/><br/>`These are put in from the rear face of the carriage front and are pushed a pit past flush with the surface.` | <img src='images/xol_carriage/xol_carriage_front_hardware.png' width=300 />
