@@ -30,7 +30,7 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 | Qty | Item | Notes|
 |-----|------|------|
 |4 | M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts <br/> * 2x HE Mount <br/>* 2x Adapter plate|
-|2 | M2.5 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> HE Mount "Feet" rear mount |
+|6* | M2.5 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> 2x HE Mount "Feet" rear mount <br/> *4x hotend fan if using "fan HS" versions|
 |4 | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting|
 |2 | M3 x 20 Metal Stand-off | CAN/EBB Mounting |
 |2 | M3 x 20 SCHS | HE Mount |
