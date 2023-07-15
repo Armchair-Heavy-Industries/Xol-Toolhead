@@ -11,9 +11,17 @@ There are two test STLs below that include one belt clip and a portion of the re
 There are many combinations of carriages/hotends/extruders that can be used with Xol. The tables below outline what you should print
 
 #### Carriage
-**Xol Carriage** | **Voron Design TAP** 
+##### Xol Carriage
+Carriage/Belt Combination | Parts
 ---------|----------
-1x Xol Carriage Rear<br /> 1x Xol Carriage Front<br /> 2x Belt Clip <br /> 1x Probe Module to suit your probe  | Follow instructions from Voron Design <br /> _Use at least TAP RC8 and replace M3x50 SCHS with M3x50 BHCS_
+MGN12H - 6MM Belts <br/> `Voron standard` | * 1x [Xol Carriage - Rear - MGN12H - 6MM.stl](<STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Rear - MGN12H - 6MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN12H - 6MM.stl](<STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Front - MGN12H - 6MM.stl>), or [KlickyNG Version](<STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Front - MGN12H - 6MM [KlickyNG].stl>) <br/> * 2x [Xol Carriage - Belt Clip - 6MM.stl](<STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<STL/Xol-Carriage/Probe Modules>)
+MGN9H - 6MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 6MM.stl](<STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Rear - MGN9H - 6MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN9H - 6MM.stl](<STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Front - MGN9H - 6MM.stl>), or [KlickyNG Version](<STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Front - MGN9H - 6MM [KlickyNG].stl>) <br/> * 2x [Xol Carriage - Belt Clip - 6MM.stl](<STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Belt Clip - 6MM.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<STL/Xol-Carriage/Probe Modules>)
+MGN9H - 9MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 9MM.stl](<STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Rear - MGN9H - 9MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN9H - 9mm.stl](<STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Front - MGN9H - 9mm.stl>), or [KlickyNG Version](<STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Front - MGN9H - 9mm [KlickyNG].stl>) <br/> * 2x [Xol Carriage - Belt Clip - 9MM.stl](<STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Belt Clip - 9MM.stl>)<br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<STL/Xol-Carriage/Probe Modules>)
+
+
+
+##### Voron Design TAP
+Follow instructions from Voron Design <br /> _`For TAP RC8, replace the M3x50 SCHS with M3x50 BHCS to avoid bed clearance issues with standard lenght Xol Ducts`_
 
 #### Hotend Mount
 Pick one option from the matrix of Hotends and Extruders below
