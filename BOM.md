@@ -7,7 +7,7 @@ The chances are that something was missed, but if you have a good mix of M2, M2.
 #### Required Hardware
 | Qty | Item | Notes|
 |-----|------|------|
-|5 | M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts|
+|5 | M3 Heatset Insert| Standard Voron spec: 5mm Outer Diameter x 4mm Length|
 |6* | M3 x 6 BHCS | `Only 2 required if using MGN9H carriage`<br/>4x MGN12H carriage mounting<br/>2x probe module|
 |8* | M3 x 8 SHCS | `only 4 required if using MGN12H carriage`<br/>4x Join carriage front to carriage rear<br/>4x MGN9H carriage mounting |
 | 4 | M3 Hex Nut | |
@@ -29,7 +29,7 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 #### Required Hardware
 | Qty | Item | Notes|
 |-----|------|------|
-|4 | M3 Heatset Insert| Standard Voron spec 4.7 mm diameter inserts <br/> * 2x HE Mount <br/>* 2x Adapter plate|
+|4 | M3 Heatset Insert| Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * 2x HE Mount <br/>* 2x Adapter plate|
 |6* | M2.5 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> 2x HE Mount "Feet" rear mount <br/> *4x hotend fan if using "fan HS" versions|
 |4 | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting|
 |2 | M3 x 20 Metal Stand-off | CAN/EBB Mounting |
