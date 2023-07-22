@@ -23,7 +23,7 @@ Project lead: DW-Tas
 * DropEffect XG
 * Red Lizard K1-UHF
 * Crazy Dragon (Dragon with crazy volcano heat block)
-* ~~Dragon UHF/Mini~~ `*Current issue being investigated`
+* *Dragon UHF/Mini `*Use caution with heater catridge wire routing/bend radius`
 * Dragon SF/HF
 * Revo Voron
 
