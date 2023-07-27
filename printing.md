@@ -63,7 +63,8 @@ Length | Ducts |
 
 
  #### EBB 36 Mount
- Print the EBB 36 mount to suit your CAN or break-out board / extruder combination.
+ Print the EBB 36 mount for Xol-Carriage to suit your CAN or break-out board / extruder combination.
+ `If you aren't using Xol-Carriage (TAP users) there are numerous EBB mounts availble like these from KayosMaker:`[CANboard_Mounts](https://github.com/KayosMaker/CANboard_Mounts)
 | Extruder | Without strain relief | With strain relief|
 |-----|------|------|
 |Sherpa-Mini |[EBB36 Mount - Sherpa-Mini.stl](<STL/EBB Mounts/EBB36 Mount - Sherpa-Mini.stl>)|[EBB36 Mount - Sherpa-Mini [strain relief].stl](<STL/EBB Mounts/EBB36 Mount - Sherpa-Mini [strain relief].stl>) |
