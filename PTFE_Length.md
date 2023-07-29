@@ -4,11 +4,10 @@ All measurements are in mm
 | Hotend     | Sherpa-Mini \*printed | DFA\*\* | VZ-Hextrudort-Low | LGX-Lite | Orbiter v2.0 |
 | ---------- | --------------------- | ------- | ----------------- | -------- | ------------ |
 | Rapido     | 36.5                  | 33.2    | 43.2              | 39.2     | 43.0         |
-| Dragon     | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
-| Dragon UHF | 21.5                  | 18.2    | 28.2              | 24.2     | 28.0         |
-| XG         | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
-| NeXt-G     | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
-| K1         | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
+| Dragon SF/HF     | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
+| Dragon UHF/Mini | 21.5                  | 18.2    | 28.2              | 24.2     | 28.0         |
+| DropEffect XG/NeXt-G | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
+| Red Lizard K1-UHF         | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
 | Revo Voron | 28.9                  | 25.6    | 35.6              | 31.6     | 35.3         |
 
 `*Sherpa-Mini CNC has been measured as 2mm shorter, but there may be variations by manufacturer`<br/>
