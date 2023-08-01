@@ -21,7 +21,8 @@ The details below are for Rapido and Sherpa-Mini. We have faith that you can wor
 | Finish off your wiring and tidy up with the cable tie slots. It's finally time to put this thing on the printer.| <img src='images\xol_toolhead\mess.jpg' width=300 /> |
 | * 2x M3 x 20 SHCS from the front | <img src='images\xol_toolhead\toolhead_to_carriage_front.png' width=300 /> |
 |Sneak up from the rear with your Allen keys <br/> * 3x M3 x 8 SHCS at the top, and <br/> * 2x M2.5 x 10 SHCS at the bottom | <img src='images\xol_toolhead\toolhead_to_carriage_rear.png' width=300 /> |
-|Plug in your probe wires `end stop too if you haven't converted to sensorless homing yet` <br/> Connect your toolhead board or umbilical stuff. You're not using drag chains, are you? <br/> <br/>You're done! `but don't forgot your software. Check [stepper_x] section for position_endstop and position_max.` | <img src='images\xol_toolhead\keep_it_tidy.png' width=300 /><img src='images\xol_toolhead\photo_rear.png' width=300 /> |
+|Plug in your probe wires `end stop too if you haven't converted to sensorless homing yet` <br/> Connect your toolhead board or umbilical stuff. You're not using drag chains, are you? | <img src='images\xol_toolhead\keep_it_tidy.png' width=300 /><img src='images\xol_toolhead\photo_rear.png' width=300 /> |
+| You're done, but don't forget your software!!! | ⚠️ Things are probably different with your new setup. <br/> <br/> * Endstop positions for X: `[stepper_x]` check `position_endstop` and `position_max` <br/> * Your probe offset: Do a `probe_calibrate` <br/> You know your printer better than anyone else. Check your work. |
 
 
 ### Here lie the instructions for installing Xol Toolhead on Voron TAP. 
