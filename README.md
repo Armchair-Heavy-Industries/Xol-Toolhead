@@ -47,6 +47,12 @@ Project lead: DW-Tas
 * MGN9H - 6mm Belts
 * MGN9H - 9mm Belts
 
+### Front Idlers
+Xol can colide with the stock voron front idlers for Trident and 2.4 when the toolhead is in the front corners of the build area. This can cause also issues with the homing sequence when homing X if the toolhead is at the front of the gantry on Y. <br/>
+Fully compatible idlers:
+* Clee's [BFI (Beefy Front Idlers)](https://github.com/clee/VoronBFI)
+* Ramalama2's [Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
+
 ## We've made some instructions for printing and assembly.
 They took ages to make, please read them.
 * [Bill of Materials (BOM)](BOM.md)
