@@ -38,7 +38,7 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 |4*| M3 x 16 SHCS | 2x Extruder stepper to standoff<br/>*2x HE Mount feet if using Voron TAP or not using M2.5 hardware |
 |2 | M2 x 12 SHCS | CAN/EBB 36 mount
 |3 | M3 x 8 SHCS | 2x HE Adapter to carriage, 1x EBB Mount |
-|4 | M2.5 x 20 SHCS | HE Fan <br/>`Replace with M2.5 x 16 SHCS if using HE Fan heatset inserts` |
+|4 | M2.5 x 20 SHCS | HE Fan <br/>`The bottom two HE fan screws may impact on Dragon UHF silicone sock. Remove a couple of milimetres of thread with a file or cutters if needed.` |
 |2 | M2.5 x 10 SHCS | HE Mount "Feet" rear mount|
 |6 | M2 x 12 SHCS | Part cooling fan and duct mounting |
 |2 | M2 x 8 SHCS | Part cooling fan and duct mounting - top rear screws |
