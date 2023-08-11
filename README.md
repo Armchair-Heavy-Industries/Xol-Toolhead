@@ -23,7 +23,7 @@ Project lead: DW-Tas
 * DropEffect XG
 * Red Lizard K1-UHF
 * Dragon UHF/Mini
-* Dragon SF/HF
+* Dragon ST/HF
 * Crazy Dragon (Dragon with crazy volcano heat block)
 * Revo Voron
 
