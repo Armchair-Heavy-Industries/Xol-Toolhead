@@ -63,6 +63,7 @@ They took ages to make, please read them.
 
 ## Acknowledgements
 * [DW-Tas](https://github.com/DW-Tas) for giving Xol the giant refresh it needed.
+* [CorvidBuilds](https://github.com/CorvidBuilds) for Xol1 and Xol2, the predecessors to this project.
 * [Long/Mandryd](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) for the Mantis toolhead.
 * [Derpimus](https://github.com/lraithel15133) for the exegesis, some CAD work, feedback, and just being a rad dude.
 * [KayosMaker](https://github.com/KayosMaker) for the CAN board mounts and spacers.
