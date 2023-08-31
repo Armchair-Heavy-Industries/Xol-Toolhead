@@ -47,8 +47,10 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 #### Fans
 | Qty | Fan Type | Recommended Fan | Notes |
 |-----|------|------|-----|
-| 1 | 2510 Axial Fan <br/> Hotend Fan | Delta Electronics 5v <br/> ASB02505SHA-AY6B | <a href="https://www.digikey.com.au/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489">Purchase Link</a> <br/> `This fan is highly recommended in heated chambers`<br/>`No other 2510 fan comes close to the performance`<br/>`of this fan.` | 
-| 2 | 4010 Blower Fan <br/> Part Cooling Fans | Delta Electronics 12v <br/> BFB0412HHA-A117 | <a href="https://www.digikey.com.au/en/products/detail/delta-electronics/BFB0412HHA-A117/5022816">Purchase Link</a> <br/> `GDStime fans are fine.`<br/>`The Deltas, however, have better durability`<br/>`in heated chambers and always hit their performance claims.`<br/>`Its not uncommon for other fan manufacturers`<br/>`to overstate performance, GDStime included.`|
+| 1 | 2510 Axial Fan <br/> Hotend Fan | Delta Electronics 5v <br/> ASB02505SHA-AY6B | <a href="https://www.digikey.com/en/products/detail/delta-electronics/ASB02505SHA-AY6B/7491489">Purchase Link</a> <br/> `This fan is highly recommended in heated chambers`<br/>`No other 2510 fan comes close to the performance`<br/>`of this fan.` | 
+| 2 | 4010 Blower Fan <br/> Part Cooling Fans | Delta Electronics <br/> BFB0412HHA-A (12V) <a href="https://www.digikey.com/en/products/detail/delta-electronics/BFB0412HHA-A/2560487">Purchase Link</a> <br/> BFB0405HHA-A (5V)  <a href="https://www.digikey.com/en/products/detail/delta-electronics/BFB0405HHA-A/1014444">Purchase Link</a> <br/> |  `GDStime fans are fine.`<br/>`The Deltas, however, have better durability`<br/>`in heated chambers and always hit their performance claims.`<br/>`Its not uncommon for other fan manufacturers`<br/>`to overstate performance, GDStime included.`|
+
+Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whichever suits your setup better. If you only have 24V available, you can use a 24V-12V buck converter like [K78L12-500R3](https://www.digikey.com/en/products/detail/mornsun-america-llc/K78L12-500R3/16784476).
 
 #### Optional Hardware
 | Qty | Item | Notes|
