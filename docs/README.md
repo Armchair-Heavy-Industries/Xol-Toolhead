@@ -18,7 +18,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
   * 1x M3 Heatset
   * Optional "bones"
     * 2x M2x30 SHCS
-    * 2x MS Heatset
+    * 2x M2 Heatset
 * Xol-Carriage update
   * Stronger belt clips
   * bigger probe cable channel with cable tie slot
