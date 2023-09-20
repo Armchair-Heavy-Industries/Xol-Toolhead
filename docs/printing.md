@@ -30,7 +30,7 @@ Hotend mounts are now separate from extruder mounts. Pick one option from the ta
 
 | Hotend | With fan heatset inserts <br/> `*M2.5 Heatsets required` | Without fan heatset inserts <br/> `*screws thread into plastic`|
 ---------|----------|---------|
-| Rapido                              | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)   | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)   |
+| Rapido (HF & UHF)                        | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)   | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)   |
 | DropEffect XG                       | N/A     |   [Xol HE Mount - XG.stl](<../STL/HE Mounts/Xol HE Mount - XG.stl>)     |
 | DropEffect NeXt-G `on release`      |[Xol HE Mount - Next-G_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Next-G_fanHS.stl>)  | [Xol HE Mount - Next-G.stl](<../STL/HE Mounts/Xol HE Mount - Next-G.stl>)  |
 | Red Lizard K1-UHF                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)      | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)       |
