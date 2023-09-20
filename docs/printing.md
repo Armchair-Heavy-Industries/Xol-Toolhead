@@ -22,7 +22,7 @@ MGN9H - 9MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 9MM.stl](<../STL/Xol-Car
 
 
 ##### Voron Design TAP
-Follow instructions from Voron Design <br /> _`For TAP RC8, replace the M3x50 SCHS with M3x50 BHCS to avoid bed clearance issues with standard lenght Xol Ducts`_
+Follow instructions from Voron Design <br /> _`For TAP RC8, replace the M3x50 SCHS with M3x50 BHCS to avoid bed clearance issues with regular length Xol Ducts`_
 
 #### Hotend Mount
 Hotend mounts are now separate from extruder mounts. Pick one option from the table below either with or without heatset inserts for attaching the hotend cooling fan.
