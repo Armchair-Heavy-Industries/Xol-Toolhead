@@ -13,6 +13,10 @@ There are many combinations of carriages/hotends/extruders that can be used with
 #### Carriage
 ##### Xol Carriage
 Pick the parts you need from the table below and follow the instructions in [xol_carriage_assembly.md](xol_carriage_assembly.md) to build.
+<br/>
+>[!NOTE]
+>*Standard belt clips are a tighter fit than *EPDM belt clips to suit the different belt width of EPDM high temperature belts.
+
 Carriage/Belt Combination | Parts
 ---------|----------
 MGN12H - 6MM Belts <br/> `Voron standard` | * 1x [Xol Carriage - Rear - MGN12H - 6MM.stl](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Rear - MGN12H - 6MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN12H - 6MM.stl](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Front - MGN12H - 6MM.stl>), or [KlickyNG Version](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Front - MGN12H - 6MM [KlickyNG].stl>) <br/> * 2x Belt clips for either standard or EPDM belts <br/> ** [Standard](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - S.stl>) <br/> ** [EPDM](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - E.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<../STL/Xol-Carriage/Probe Modules>)
