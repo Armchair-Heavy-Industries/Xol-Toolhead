@@ -36,7 +36,7 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 | 2   | M3 x 20 SCHS            | HE Mount                                                                                                                                                     |
 | 2   | M3 x ?? SHCS            | Extruder to HE Mount. Length varies depending on extruder used                                                                                               |
 | 4*  | M3 x 16 SHCS            | 2x Extruder stepper to standoff<br/>*2x HE Mount feet if using Voron TAP or not using M2.5 hardware                                                          |
-| 2   | M2 x 12 SHCS            | CAN/EBB 36 mount                                                                                                                                             |
+| 2   | M3 x 12 SHCS            | CAN/EBB 36 mount                                                                                                                                             |
 | 2   | M2 x 30 SHCS            | Optiona Bones                                                                                                                                                |
 | 3   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 1x EBB Mount                                                                                                                      |
 | 1 | M3 x 8 BHCS | Extruder Mount to Hotend Mount at front
