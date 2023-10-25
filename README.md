@@ -1,3 +1,5 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 # Xol Toolhead
 A soft reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still ugly, we couldn't fix that.
 
@@ -16,7 +18,7 @@ All of the documentation has been moved to /docs to help keep the repo organised
   * [Toolhead assembly](docs/toolhead_assembly.md)
 
 <br/><br/><br/><br/>
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
