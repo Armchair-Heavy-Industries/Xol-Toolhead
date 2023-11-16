@@ -34,14 +34,15 @@ Hotend mounts are now separate from extruder mounts. Pick one option from the ta
 
 | Hotend | With fan heatset inserts <br/> `*M2.5 Heatsets required` | Without fan heatset inserts <br/> `*screws thread into plastic`|
 ---------|----------|---------|
-| Rapido (HF & UHF)                        | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)   | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)   |
-| DropEffect XG                       | N/A     |   [Xol HE Mount - XG.stl](<../STL/HE Mounts/Xol HE Mount - XG.stl>)     |
-| DropEffect NeXt-G `on release`      |[Xol HE Mount - Next-G_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Next-G_fanHS.stl>)  | [Xol HE Mount - Next-G.stl](<../STL/HE Mounts/Xol HE Mount - Next-G.stl>)  |
-| Red Lizard K1-UHF                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)      | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)       |
-| Dragon UHF/Mini/HF with V6 Extender | [Xol HE Mount - Dragon UHF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF_fanHS.stl>)      | [Xol HE Mount - Dragon UHF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF.stl>)       |
-| Dragon ST/HF                        | [Xol HE Mount - Dragon SF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF_fanHS.stl>)      | [Xol HE Mount - Dragon SF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF.stl>)       |
-| Revo Voron                          | [Xol HE Mount - Revo-Voron_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Revo-Voron_fanHS.stl>)      | [Xol HE Mount - Revo-Voron.stl](<../STL/HE Mounts/Xol HE Mount - Revo-Voron.stl>)       |
-| NF-Crazy                            | [Xol HE Mount - NF-Crazy_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - NF-Crazy_fanHS.stl>)      | [Xol HE Mount - NF-Crazy.stl](<../STL/HE Mounts/Xol HE Mount - NF-Crazy.stl>)       |
+| Rapido (HF & UHF)                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)          | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)          |
+| D---------------------------------G | N--------------------------------------------------------------------------------------------A | [--------------------------------------------------------------------------------) |
+| DropEffect NeXt-G `on release`      | [Xol HE Mount - Next-G_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Next-G_fanHS.stl>)          | [Xol HE Mount - Next-G.stl](<../STL/HE Mounts/Xol HE Mount - Next-G.stl>)          |
+| Red Lizard K1-UHF                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)          | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)          |
+| Dragon UHF/Mini/HF with V6 Extender | [Xol HE Mount - Dragon UHF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF_fanHS.stl>)  | [Xol HE Mount - Dragon UHF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF.stl>)  |
+| Dragon ST/HF                        | [Xol HE Mount - Dragon SF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF_fanHS.stl>)    | [Xol HE Mount - Dragon SF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF.stl>)    |
+| Dragon Ace                          | [Xol HE Mount - Dragon-Ace_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon-Ace_fanHS.stl>) | [Xol HE Mount - Dragon-Ace.stl](<../STL/HE Mounts/Xol HE Mount - Dragon-Ace.stl>) |
+| Revo Voron                          | [Xol HE Mount - Revo-Voron_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Revo-Voron_fanHS.stl>)  | [Xol HE Mount - Revo-Voron.stl](<../STL/HE Mounts/Xol HE Mount - Revo-Voron.stl>)  |
+| NF-Crazy                            | [Xol HE Mount - NF-Crazy_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - NF-Crazy_fanHS.stl>)      | [Xol HE Mount - NF-Crazy.stl](<../STL/HE Mounts/Xol HE Mount - NF-Crazy.stl>)      |
 
 
 #### Extruder Mount

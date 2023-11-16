@@ -43,6 +43,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Red Lizard K1-UHF
 * Dragon UHF/Mini
 * Dragon ST/HF
+* Dragon Ace
 * Revo Voron
 * NF-Crazy (*without duct LEDs)
 
