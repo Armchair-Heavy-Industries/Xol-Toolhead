@@ -1,0 +1,25 @@
+site_name: Xol Toolhead
+site_url: https://armchair-engineering.github.io/Xol-Toolhead
+repo_url: https://github.com/Armchair-Engineering/Xol-Toolhead
+repo_name: Armchair-Engineering/Xol-Toolhead
+theme:
+  name: material
+  custom_dir: docs/theme
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  icon:
+    repo: fontawesome/brands/github
+    next: xbox_button_right
+    previous: xbox_button_left
+    close: xbox_button_x
+  features:
+    - navigation.tracking
+    - toc.follow
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - docs/theme/.icons
