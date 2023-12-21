@@ -10,6 +10,16 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 <img src='assets/images/full_assembly.png' width=600 />
 
 ## What's new
+`Xol-Toolhead Release 2023-12-21`
+* Quality of life improvements
+  * Cable routing holes are now on both sides of the toolhead
+  * Cable routing holes can now fit MF3.0 commonly used on hotends
+  * Awkward M3 Heatset insert replaced with easier to install M3 hex nut for front extruder mount connection
+  * Rapido hotend mounting points rotated to improve wire routing
+* Minimal BOM change
+  * 1x M3 Hex Nut replaces 1x M3 Heatset Insert
+  * 1x M3x6 BHCS replaces 1x M3x8 BHCS
+
 `Xol-Toolhead Release 2023-09-15`
 * Modular approach to hotend mounts and extruders
   * Hotend mounts and extruder mounts are now separate parts
