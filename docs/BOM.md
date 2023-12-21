@@ -8,10 +8,10 @@ The chances are that something was missed, but if you have a good mix of M2, M2.
 | Qty | Item              | Notes                                                                                                                       |
 | --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | 5   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                                                        |
-| 6*  | M3 x 6 BHCS       | `Only 2 required if using MGN9H carriage`<br/>4x MGN12H carriage mounting<br/>2x probe module                               |
+| 6*  | M3 x 6 BHCS       | `Only 4 required if using MGN9H carriage`<br/>2x MGN12H carriage rear <br/>2x Carriage front <br/>2x probe module                               |
 | 8*  | M3 x 8 SHCS       | `only 4 required if using MGN12H carriage`<br/>4x Join carriage front to carriage rear<br/>4x MGN9H carriage mounting       |
 | 4*  | M3 Hex Nut        | `Only 2 required if using MGN9H carriage`<br/>4x Carriage rear                                                              |
-| 2*  | M3 x 26 Pin       | Belt mounting system for 6mm belts '24mm, 25mm and 26mm pins have all been tested. 26mm is the strongest if pushing limits' |
+| 2*  | M3 x 26 Pin       | Belt mounting system for 6mm belts `24mm, 25mm and 26mm pins have all been tested. 26mm is the strongest if pushing limits` |
 | 2*  | M3 x 30 Pin       | Belt mounting system for 9mm belts                                                                                          |
 
 #### Optional Hardware
@@ -29,7 +29,8 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 #### Required Hardware
 | Qty | Item                    | Notes                                                                                                                                                        |
 | --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 5   | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * 2x HE Mount <br/>* 2x Adapter plate <br/>* 1x Hotend Mount mount for Extruder Block             |
+| 4   | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * HE Mount                                                                                        |
+| 1   | M3 Hex Nut              | Hotend Mount mount for front of Extruder Block                                                                                                               |
 | 6*  | M2.5 Heatset Insert     | 3.5mm Outer Diameter x 4mm Length <br/> 2x HE Mount "Feet" rear mount <br/> *4x hotend fan if using "fan HS" versions                                        |
 | 6   | M2 Heatset Insert       | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting <br/> * 2x Optional Bones                                                         |
 | 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                                             |
@@ -37,9 +38,9 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 | 2   | M3 x ?? SHCS            | Extruder to HE Mount. Length varies depending on extruder used                                                                                               |
 | 4*  | M3 x 16 SHCS            | 2x Extruder stepper to standoff<br/>*2x HE Mount feet if using Voron TAP or not using M2.5 hardware                                                          |
 | 2   | M3 x 12 SHCS            | CAN/EBB 36 mount                                                                                                                                             |
-| 2   | M2 x 30 SHCS            | Optiona Bones                                                                                                                                                |
+| 2   | M2 x 30 SHCS            | Optional Bones                                                                                                                                               |
 | 3   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 1x EBB Mount                                                                                                                      |
-| 1 | M3 x 8 BHCS | Extruder Mount to Hotend Mount at front
+| 1   | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front                                                                                                                      |
 | 4   | M2.5 x 20 SHCS          | HE Fan <br/>`The bottom two HE fan screws may impact on Dragon UHF silicone sock. Remove a couple of milimetres of thread with a file or cutters if needed.` |
 | 2   | M2.5 x 10 SHCS          | HE Mount "Feet" rear mount                                                                                                                                   |
 | 6   | M2 x 12 SHCS            | Part cooling fan and duct mounting                                                                                                                           |
@@ -62,7 +63,7 @@ Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whi
 |2 | M3 Heatset Insert| *If not using M2.5 hardware for HE Mount "feet" |
 |1 | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/>X End stop|
 |1 | M2 x 10 SHCS | X End stop|
-|1 | Stealthburner Neopixel LED harness | If using LED ducts and faceplate <br/>`custom neopixel harness if using only duct LEDs` |
+|1 | 3 LED Neopixel harness | If using LED ducts and faceplate <br/>`Can be self-made for best wire fit, or re-use StealthBurner harness with a short extension to reach toolhead board.` |
 
-
+<br/><br/><br/><br/>
 ⬅ [README](README.md) - [Printed Parts](printing.md) ➡

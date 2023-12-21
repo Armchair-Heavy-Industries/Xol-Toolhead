@@ -8,6 +8,7 @@ All measurements are in mm
 | Dragon UHF/Mini      | 21.5                  | 18.2    | 28.2              | 24.2     | 28.0         |
 | DropEffect XG/NeXt-G | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
 | Red Lizard K1-UHF    | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
+| NF Craxy             | 22.5                  | 19.2    | 29.2              | 25.2     | 29.0         |
 | Revo Voron           | 28.9                  | 25.6    | 35.6              | 31.6     | 35.3         |
 
 `*Sherpa-Mini CNC has been measured as 2mm shorter, but there may be variations by manufacturer`<br/>
