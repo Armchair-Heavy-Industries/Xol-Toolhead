@@ -19,6 +19,8 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Minimal BOM change
   * 1x M3 Hex Nut replaces 1x M3 Heatset Insert
   * 1x M3x6 BHCS replaces 1x M3x8 BHCS
+* Reworked Extruder mount to Hotend mount interface
+  * Old Hotend mounts will not work with new Extruder mounts and vice-versa
 
 `Xol-Toolhead Release 2023-09-15`
 * Modular approach to hotend mounts and extruders
