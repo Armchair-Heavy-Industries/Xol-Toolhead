@@ -69,7 +69,7 @@ Some Trident installs require a different right hand duct to prevent contact wit
  
  #### Faceplates
  For your faceplate parts, print all the STLs from one cell in the table below. Files with names starting with [t] indicate transparent or translucent filament to be used as a diffuser for the status LED.
- | Hoten Mount           | No LED          | Status LED                 | Rainbow BARF Status LED     |
+ | Hotend Mount           | No LED          | Status LED                 | Rainbow BARF Status LED     |
  | --------------------- | --------------- | -------------------------- | --------------------------- |
  | | ![Standard](assets/images/xol_toolhead/Faceplate_standard.png)|![LED](assets/images/xol_toolhead/Faceplate_LED.png) |![BARF](assets/images/xol_toolhead/Faceplate_BARF.png) |
  | Regular Hotend Mounts | [Faceplate - Standard - Front.stl](<../STL/Faceplates/Faceplate - Standard - Front.stl>) <br/> [Faceplate - Standard - Rear.stl](<../STL/Faceplates/Faceplate - Standard - Rear.stl>) | [Faceplate - LED - Front.stl](<../STL/Faceplates/Faceplate - LED - Front.stl>) <br/> [Faceplate - LED - Rear.stl](<../STL/Faceplates/Faceplate - LED - Rear.stl>) <br/> [[t] Logo LED diffuser.stl](<../STL/Faceplates/[t] Logo LED diffuser.stl>) | [Faceplate - BARF LED - Front.stl](<../STL/Faceplates/Faceplate - BARF LED - Front.stl>) <br/> [Faceplate - BARF LED - Rear.stl](<../STL/Faceplates/Faceplate - BARF LED - Rear.stl>) <br/> [[t] Logo BARF LED diffuser.stl](<../STL/Faceplates/[t] Logo BARF LED diffuser.stl>)  |
