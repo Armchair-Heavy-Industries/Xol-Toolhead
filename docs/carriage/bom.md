@@ -10,7 +10,7 @@ description: Bill Of Materials and required parts for the Xol Carriage
 | Qty | Item              | Notes                                                                                                    |
 | --- | ----------------- | -------------------------------------------------------------------------------------------------------- |
 | 5   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                                     |
-| 6\* | M3 x 6 BHCS       | `Only 2 for MGN9H carriage` <br/>4x MGN12H carriage mounting<br/>2x probe module                         |
+| 6\* | M3 x 6 BHCS       | `Only 4 for MGN9H carriage` <br/>2x MGN12H carriage rear<br/>2x Carriage front<br/>2x probe module                         |
 | 8\* | M3 x 8 SHCS       | `only 4 for MGN12H carriage` <br/>4x Join carriage front to carriage rear<br/>4x MGN9H carriage mounting |
 | 4\* | M3 Hex Nut        | `Only 2 for MGN9H carriage` <br/>4x Carriage rear                                                        |
 | 2\* | M3 x 26 Pin       | Belt mounting system for 6mm belts. 24, 25 and 26mm pins have all been tested. 26mm is the strongest if pushing limits |
