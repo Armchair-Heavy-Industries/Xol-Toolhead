@@ -1,4 +1,9 @@
-# Xol Toolhead Assembly
+---
+title: Toolhead assembly
+description: Assembly instructions for the Xol Toolhead
+---
+
+# Assembly instructions
 
 <img src='assets/images/xol_toolhead/toolhead-sherpa-rapido.png' width=250 />
 

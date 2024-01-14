@@ -1,0 +1,65 @@
+site_name: Xol-Toolhead
+site_url: https://armchair-engineering.github.io/Xol-Toolhead
+repo_url: https://github.com/Armchair-Engineering/Xol-Toolhead
+repo_name: Armchair-Engineering/Xol-Toolhead
+theme:
+  name: material
+  custom_dir: docs/theme
+
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  icon:
+    admonition:
+      # Default/stock Material for MkDocs icons
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+    repo: fontawesome/brands/github
+    next: xbox_button_right
+    previous: xbox_button_left
+    close: xbox_button_x
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.sections
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - docs/theme/.icons

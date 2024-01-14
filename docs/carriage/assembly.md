@@ -1,4 +1,10 @@
-# Xol Carriage Assembly
+---
+title: Carriage assembly
+description: Assembly instructions for the Xol Carriage
+---
+
+# Assembly instructions
+
 ![Xol Carriage Image](assets/images/xol_carriage/xol_carriage.png)
 
 
