@@ -101,7 +101,8 @@ Some Trident installs require a different right hand duct to prevent contact wit
  | PCB Klicky | [Klicky_PCB_Module.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module.stl>) | [Klicky_PCB_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module_UHF.stl>) |
  | Klicky | [Klicky_Module.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_Module.stl>) | [Klicky_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_Module_UHF.stl>) |
  | KlickyNG | [KlickyNG_Module.stl](<../STL/Xol-Carriage/Probe Modules/KlickyNG_Module.stl>) <br/>`*non-standard carriage front`| N/A |
- | Beacon | [Beacon_Module.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_Module.stl>) | [Beacon_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_Module_UHF.stl>) |
+ | Beacon Rev H | [Beacon_H_Module.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_H_Module.stl>) | [Beacon_H_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_H_Module_UHF.stl>) |
+ | Beacon Rev D| [Beacon_Module.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_Module.stl>) | [Beacon_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_Module_UHF.stl>) |
  | Euclid | [Euclid_Module.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module.stl>) | [Euclid_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module_UHF.stl>) |
  | Euclid rotated 90° | [Euclid_Module_90.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module_90.stl>) | [Euclid_Module_90_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module_90_UHF.stl>) |
  | Voron TAP | Almost had you| Ask Voron Design|
