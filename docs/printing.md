@@ -23,6 +23,9 @@ MGN12H - 6MM Belts <br/> `Voron standard` | * 1x [Xol Carriage - Rear - MGN12H -
 MGN9H - 6MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 6MM.stl](<../STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Rear - MGN9H - 6MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN9H - 6MM.stl](<../STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Front - MGN9H - 6MM.stl>), or [KlickyNG Version](<../STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Front - MGN9H - 6MM [KlickyNG].stl>) <br/> * 2x Belt clips for either standard or EPDM belts <br/> ** [Standard](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - S.stl>) <br/> ** [EPDM](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - E.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<../STL/Xol-Carriage/Probe Modules>)
 MGN9H - 9MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 9MM.stl](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Rear - MGN9H - 9MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN9H - 9mm.stl](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Front - MGN9H - 9mm.stl>), or [KlickyNG Version](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Front - MGN9H - 9mm [KlickyNG].stl>) <br/> * 2x Belt clips for either standard or EPDM belts <br/> ** [Standard](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Belt Clip - 9MM - S.stl>) <br/> ** [EPDM](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Belt Clip - 9MM - E.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<../STL/Xol-Carriage/Probe Modules>)
 
+<br/>
+
+`CNC carriages are available from some members of the community. Another source is` [Funssor on AliExpress](https://www.aliexpress.com/item/1005006143086402.html)
 
 
 ##### Voron Design TAP
