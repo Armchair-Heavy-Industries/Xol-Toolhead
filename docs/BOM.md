@@ -32,7 +32,7 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 | 4   | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * HE Mount                                                                                        |
 | 1   | M3 Hex Nut              | Hotend Mount mount for front of Extruder Block                                                                                                               |
 | 6*  | M2.5 Heatset Insert     | 3.5mm Outer Diameter x 4mm Length <br/> 2x HE Mount "Feet" rear mount <br/> *4x hotend fan if using "fan HS" versions                                        |
-| 6   | M2 Heatset Insert       | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting <br/> * 2x Optional Bones                                                         |
+| 10   | M2 Heatset Insert       | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting <br/> * 2x Optional Bones                                                         |
 | 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                                             |
 | 2   | M3 x 20 SCHS            | HE Mount                                                                                                                                                     |
 | 2   | M3 x ?? SHCS            | Extruder to HE Mount. Length varies depending on extruder used                                                                                               |
