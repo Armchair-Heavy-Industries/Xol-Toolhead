@@ -21,8 +21,14 @@ Filled filaments are probably a good cheat to help with this.
 
 The Extruder mount now uses 2x M3 x 16mm SHCS that go through from the front, instead of 20mm from previous versions.
 
+### LEDs have changed
+All of the HE mounts include a spot for sequin LEDs. I used the RGB type from Fysetc on Ali Express.
+There are two of these sequins and a single Neopixel in the LED chain.
+This is done so that the LED holders fit and there aren't separate parts for with/without LEDs. 
+If you don't want LEDs, don't put them in. Print the diffuser in an accent colour and just sit it in place.
+
 ## BOM Changes [Carriage]
-The Carriage is completely reworked into a single piece print (except probe modules).
+The Carriage is completely reworked into a single piece print (except probe modules). It has some extra M3 hex nuts and needs some bigger washers to clamp the carriage to the back of the MGN rail.
 
 ### Now using Archetype belt clips
 You will need the M4 OD 0.45mm wall width tube just like for Archetype.
