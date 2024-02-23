@@ -51,7 +51,6 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 ### Hotends
 * Rapido
 * DropEffect XG
-* DropEffect NeXt-G `when released`
 * Red Lizard K1-UHF
 * Dragon UHF/Mini
 * Dragon ST/HF
