@@ -39,7 +39,6 @@ Hotend mounts are now separate from extruder mounts. Pick one option from the ta
 ---------|----------|---------|
 | Rapido (HF & UHF)                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)          | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)          |
 | DropEffect XG                       | N/A     |   [Xol HE Mount - XG.stl](<../STL/HE Mounts/Xol HE Mount - XG.stl>)     |
-| DropEffect NeXt-G `on release`      | [Xol HE Mount - Next-G_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Next-G_fanHS.stl>)          | [Xol HE Mount - Next-G.stl](<../STL/HE Mounts/Xol HE Mount - Next-G.stl>)          |
 | Red Lizard K1-UHF                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)          | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)          |
 | Dragon UHF/Mini/HF with V6 Extender | [Xol HE Mount - Dragon UHF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF_fanHS.stl>)  | [Xol HE Mount - Dragon UHF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF.stl>)  |
 | Dragon ST/HF                        | [Xol HE Mount - Dragon SF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF_fanHS.stl>)    | [Xol HE Mount - Dragon SF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF.stl>)    |
