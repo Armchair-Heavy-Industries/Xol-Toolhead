@@ -62,6 +62,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Sherpa Mini
 * Annex Double Folded Ascender
 * Galileo G2SA
+* WristWatch G2
 * Escapement
 * Vz-Hextrudort-Low
 * LGX-Lite
