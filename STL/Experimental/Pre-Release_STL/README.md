@@ -35,6 +35,8 @@ You will need the M4 OD 0.45mm wall width tube just like for Archetype.
 
 The M3 pin is 30mm now for all variations.
 
+`m2.5 x8 are standard hotend mounting screws. m2.5x16 could be cut down from M2.5x20s, the M4 metal tube can be replaced by PTFE reverse bowden. and the M3 x30 pins can be cut down screws`
+
 Supports: <br/>
 MGN12h 6mm and 9mm belts<br/>
 MGN9h 6mm and 9mm belts
