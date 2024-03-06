@@ -63,6 +63,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Annex Double Folded Ascender
 * Galileo G2SA
 * WristWatch G2
+* WristWatch BMG
 * Escapement
 * Vz-Hextrudort-Low
 * LGX-Lite
