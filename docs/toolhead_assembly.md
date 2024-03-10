@@ -1,6 +1,10 @@
 # Xol Toolhead Assembly
 
-<img src='assets/images/xol_toolhead/toolhead-sherpa-rapido.png' width=250 />
+<img src='assets/images/xol_toolhead/toolhead-sherpa-rapido.png' width=300 />
+
+
+> ⚠️ **Not Done**: Everything below here still needs to be updated
+> 
 
 ### These instructions are for off-printer assembly using Xol Carriage. If you use Voron TAP, scroll down, you have to do things differently.
 The details below are for Rapido and Sherpa-Mini. We have faith that you can work it out from here if you're using a different combination of hotend and extruder. If you have trouble look for the #xol-toolhead channel on the Discord.

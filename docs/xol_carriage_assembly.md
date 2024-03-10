@@ -1,6 +1,7 @@
 # Xol Carriage Assembly
 ![Xol Carriage Image](assets/images/xol_carriage/xol_carriage.png)
 
+> ⚠️ **Not Done**: Everything below here still needs to be updated
 
 
 | Notes | Image |

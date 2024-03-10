@@ -5,19 +5,13 @@ The chances are that something was missed, but if you have a good mix of M2, M2.
 ## Carriage
 
 #### Required Hardware
-| Qty | Item              | Notes                                                                                                                       |
-| --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 5   | M3 Heatset Insert | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                                                        |
-| 6*  | M3 x 6 BHCS       | `Only 4 required if using MGN9H carriage`<br/>2x MGN12H carriage rear <br/>2x Carriage front <br/>2x probe module                               |
-| 8*  | M3 x 8 SHCS       | `only 4 required if using MGN12H carriage`<br/>4x Join carriage front to carriage rear<br/>4x MGN9H carriage mounting       |
-| 4*  | M3 Hex Nut        | `Only 2 required if using MGN9H carriage`<br/>4x Carriage rear                                                              |
-| 2*  | M3 x 26 Pin       | Belt mounting system for 6mm belts `24mm, 25mm and 26mm pins have all been tested. 26mm is the strongest if pushing limits` |
-| 2*  | M3 x 30 Pin       | Belt mounting system for 9mm belts                                                                                          |
-
-#### Optional Hardware
-| Qty | Item              | Notes                                                   |
-| --- | ----------------- | ------------------------------------------------------- |
-| 2   | M3 Heatset Insert | If not using m2.5 heatsets for toolhead feet attachment |
+| Qty | Item                        | Notes                                                                                     |
+| --- | --------------------------- | ----------------------------------------------------------------------------------------- |
+| 5   | M3 Heatset Insert           | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                      |
+| 6   | M3 x 8 SHCS                 | 4x MGN carriage mounting, 2x MGN carriage clamps                                          |
+| 4   | M3 Hex Nut                  | 2x MGN carriage clamps, 2x toolhead mounting                                              |
+| 2   | M3 x 30 Pin                 | Belt mounting system                                                                      |
+| 2   | 22.5mm lenght M4 metal tube | 4mm OD, 0.45mm wall width. Belt mounting system.`4/3mm PTFE tube can be used temporarily` |
 
 #### Probe Hardware
 Follow probe instructions for required hardware. Where possible, self tapping screws have been replaced with heatset hardware, usually M2.
@@ -27,25 +21,22 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 ## Toolhead
 
 #### Required Hardware
-| Qty | Item                    | Notes                                                                                                                                                        |
-| --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 4   | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * HE Mount                                                                                        |
-| 1   | M3 Hex Nut              | Hotend Mount mount for front of Extruder Block                                                                                                               |
-| 6*  | M2.5 Heatset Insert     | 3.5mm Outer Diameter x 4mm Length <br/> 2x HE Mount "Feet" rear mount <br/> *4x hotend fan if using "fan HS" versions                                        |
-| 10   | M2 Heatset Insert       | 3.5mm Outer Diameter x 4mm Length <br/> Part cooling fan and duct mounting <br/> * 2x Optional Bones                                                         |
-| 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                                             |
-| 2   | M3 x 20 SCHS            | HE Mount                                                                                                                                                     |
-| 2   | M3 x ?? SHCS            | Extruder to HE Mount. Length varies depending on extruder used                                                                                               |
-| 4*  | M3 x 16 SHCS            | 2x Extruder stepper to standoff<br/>*2x HE Mount feet if using Voron TAP or not using M2.5 hardware                                                          |
-| 2   | M3 x 12 SHCS            | CAN/EBB 36 mount                                                                                                                                             |
-| 2   | M2 x 30 SHCS            | Optional Bones                                                                                                                                               |
-| 3   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 1x EBB Mount                                                                                                                      |
-| 1   | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front                                                                                                                      |
-| 4   | M2.5 x 20 SHCS          | HE Fan <br/>`The bottom two HE fan screws may impact on Dragon UHF silicone sock. Remove a couple of milimetres of thread with a file or cutters if needed.` |
-| 2   | M2.5 x 10 SHCS          | HE Mount "Feet" rear mount                                                                                                                                   |
-| 6   | M2 x 12 SHCS            | Part cooling fan and duct mounting                                                                                                                           |
-| 2   | M2 x 8 SHCS             | Part cooling fan and duct mounting - top rear screws                                                                                                         |
-| 1   | Short PTFE tube         | Between extruder and hotend                                                                                                                                  |
+| Qty | Item                    | Notes                                                                                                                               |
+| --- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 5*  | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * Extruder Mount `5th heatset for extruders with additional front screw` |
+| 1   | M3 Hex Nut              | Hotend Mount mount, front of Extruder Block                                                                                         |
+| 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                    |
+| 2   | M3 x 16 SCHS            | HE Mount                                                                                                                            |
+| 2   | M3 x [20][8] SHCS       | Extruder to HE Mount. Length varies depending on extruder used <br/> `M3x20 used for Sherpa-Mini, M3x8 used for most others`        |
+| 4   | M3 x 16 SHCS            | 2x Extruder stepper to standoff <br/> 2x HE Mount feet                                                                              |
+| 2   | M3 x 12 SHCS            | CAN/EBB 36 mount                                                                                                                    |
+| 5   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 2x MGN carriage clamping, 1x EBB Mount                                                                   |
+| 2   | M3 DIN9021 flat washer  | MGN Carriage clamping. `Alternatively use M3 + M5 stacked washers`                                                                  |
+| 1*  | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front                                                                                             |
+| 4   | M2.5 x 16 SHCS          | HE Fan <br/>                                                                                                                        |
+| 4   | M2.5 x 8 SHCS           | Part cooling fan fan mounting                                                                                                       |
+| 4*  | M2.5 x 8 SHCS           | *additional to above is using XolPAP ducts                                                                                          |
+| 1   | Short PTFE tube         | Between extruder and hotend                                                                                                         |
 
 #### Fans
 > :information_source: **Understand your electronics and voltages** <br/>
@@ -60,14 +51,13 @@ Follow probe instructions for required hardware. Where possible, self tapping sc
 Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whichever suits your setup better. If you only have 24V available, you can use a 24V-12V buck converter like [K78L12-500R3](https://www.digikey.com/en/products/detail/mornsun-america-llc/K78L12-500R3/16784476), or run an additional wire in your umbilical for 12v+.
 
 #### Optional Hardware
-| Qty | Item | Notes|
-|-----|------|------|
-|1 | M3 Heatset Insert| Sherpa-Mini K-plate attachment|
-|1 | M3 Heatset Insert| DFA Custom bottom|
-|2 | M3 Heatset Insert| *If not using M2.5 hardware for HE Mount "feet" |
-|1 | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/>X End stop|
-|1 | M2 x 10 SHCS | X End stop|
-|1 | 3 LED Neopixel harness | If using LED ducts and faceplate <br/>`Can be self-made for best wire fit, or re-use StealthBurner harness with a short extension to reach toolhead board.` |
+| Qty | Item              | Notes                                                                                                                                   |
+| --- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | M3 Heatset Insert | Sherpa-Mini K-plate attachment                                                                                                          |
+| 1   | M3 Heatset Insert | DFA Custom bottom                                                                                                                       |
+| 1   | M2 Heatset Insert | 3.5mm Outer Diameter x 4mm Length <br/>X End stop                                                                                       |
+| 1   | M2 x 10 SHCS      | X End stop                                                                                                                              |
+| 1   | LED harness       | 1x RGB Neopixel LEDs, and <br/> 2x RGB Sequin LEDs (0.8mm board thickness) <br/> 26 or 28 AWG wire. `[create LED harness instructions]` |
 
 <br/><br/><br/><br/>
 ⬅ [README](README.md) - [Printed Parts](printing.md) ➡
