@@ -9,7 +9,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
-<img src='assets/images/Xol-Toolhead_render.PNG' width=800 />
+<img src='assets/images/Xol-Toolhead_render.PNG' width=100% />
 
 ## What's new
 `Xol-Toolhead Release 2024-03-10`
