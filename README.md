@@ -9,7 +9,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
-<img src='docs/assets/images/Xol-Toolhead_render.PNG' width=62% /><img src='docs/assets/images/Xol-Toolhead_Beta_No-fans-faceplate.png' width=38% />
+<img src='docs/assets/images/Xol-Toolhead_render_with_both.png' width=62% /><img src='docs/assets/images/Xol-Toolhead_Beta_No-fans-faceplate.png' width=38% />
 
 ## Go to the /docs
 All of the documentation has been moved to /docs to help keep the repo organised (crazy I know) and enable future things.
