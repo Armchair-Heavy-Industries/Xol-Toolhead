@@ -13,7 +13,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 
 ## What's new
 `Xol-Toolhead Release 2024-03-10`
-### Major upate
+### Major update
 * Quality of life improvements
   * Toolhead
     * Combined multiple printed parts to simplify assembly
@@ -32,14 +32,14 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
       * M2 Screws (except for X endstop)
     * Extruder mount front 2 SHCS now 16mm (previously 20mm)
   * Carriage
-    * All versions now attache to MGN rail with M3x8 SHCS (MGN12 previously required M3x6 BHCS)
+    * All versions now attach to MGN rail with M3x8 SHCS (MGN12 previously required M3x6 BHCS)
     * Archetype belt clips require 4mm OD, 0.45mm wall width tube
-      * 2x 22.5mm lenghts
+      * 2x 22.5mm lengths
       * 'Has been tested with 4/3mm PTFE tube and seems OK but harder to install'
     * Belt pins are now all M3x30 for all carriage/belt combinations
       * Cut down screws now OK due to the metal tube protecting the belts
     * Added:
-      * Large M3 washers and 2x M3x8 SHCS for MGN Carriage clamps (not optional, required for carriage strenght)
+      * Large M3 washers and 2x M3x8 SHCS for MGN Carriage clamps (not optional, required for carriage strength)
 * Tool Requirement
   * Tightening the M3 SHCS of the toolhead "feet" to the carriage requires a M2.5 ball head hex driver. `This is due to the requirement to tighten these screws from a slight angle.`
 
@@ -120,7 +120,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * MGN9H - 9mm Belts
 
 ### Front Idlers
-Xol-Toolhead can colide with the stock voron front idlers for Trident and 2.4 when the toolhead is in the front corners of the build area. This can cause also issues with the homing sequence when homing X if the toolhead is at the front of the gantry on Y. <br/>
+Xol-Toolhead can collide with the stock voron front idlers for Trident and 2.4 when the toolhead is in the front corners of the build area. This can cause also issues with the homing sequence when homing X if the toolhead is at the front of the gantry on Y. <br/>
 Fully compatible idlers:
 * clee's [BFI (Beefy Front Idlers)](https://github.com/clee/VoronBFI)
 * Ramalama2's [Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
