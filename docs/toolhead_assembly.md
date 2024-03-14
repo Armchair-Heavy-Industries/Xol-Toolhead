@@ -8,7 +8,7 @@
 |	--------------------	|	--------------------	|
 |	Remove the included supports. They're going to get in the way if you don’t.	|	<img src='assets/images/xol_toolhead/supports_he_mount.png' width=300 /><img src='assets/images/xol_toolhead/supports_extruder_mount.png' width=300 />	|
 |	An easy one to start, put one M3 hexnut into the hotend mount. <br/>`Pushes in from below on most, slides in from the side for NF-Crazy & XG`	|	<img src='assets/images/xol_toolhead/em_hexnut.png' width=400 />	|
-|	LEDs are next (if you're using them). <br/>Push them into the slots provided.	|	<img src='assets/images/xol_toolhead/led_wires_1.png' width=400 /><br/><img src='assets/images/xol_toolhead/led_wires_2.png' width=300 /><br/><img src='assets/images/xol_toolhead/led_wires_3.png' width=300 />	|
+|	LEDs are next (if you're using them). <br/>Push them into the slots provided. <br/><br/> Build instructions for the LED harness can be found [here](led_harness.md)	|	<img src='assets/images/xol_toolhead/led_wires_1.png' width=400 /><br/><img src='assets/images/xol_toolhead/led_wires_2.png' width=300 /><br/><img src='assets/images/xol_toolhead/led_wires_3.png' width=300 />	|
 |	Push the diffuser (or accent logo piece) into the faceplate.	|	<img src='assets/images/xol_toolhead/faceplate_install_diffuser.png' width=400 />	|
 |	Install the 2510 hotend fan. Make sure you don't squash any LED wires, and secure with <br/>4x M3x16 SHCS.<br/><br/>⚠️ **Screws are going into plastic. Do NOT over tighten**	|	<img src='assets/images/xol_toolhead/toolhead_2510_faceplate2.png' width=400 />	|
 |	Put the screws into the "feet" now, your hotend may be in the way later.<br/>2x M3x16 SHCS	|	<img src='assets/images/xol_toolhead/feet_screws.png' width=400 />	|
@@ -29,4 +29,4 @@
 
 
 <br/><br/><br/><br/>
- ⬅ [Carriage assembly](xol_carriage_assembly.md)
+ ⬅ [Carriage assembly](xol_carriage_assembly.md) - [LED Harness instructions](led_harness.md) ➡

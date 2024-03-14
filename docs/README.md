@@ -131,6 +131,7 @@ They took ages to make, please read them.
 * [Printing parts](printing.md)
 * [Carriage assembly](xol_carriage_assembly.md)
 * [Toolhead assembly](toolhead_assembly.md)
+* [LED Harness](led_harness.md)
 
 
 ## Acknowledgements

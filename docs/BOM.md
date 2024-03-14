@@ -53,12 +53,12 @@ Follow probe or extruder instructions for required hardware.
 Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whichever suits your setup better. If you only have 24V available, you can use a 24V-12V buck converter like [K78L12-500R3](https://www.digikey.com/en/products/detail/mornsun-america-llc/K78L12-500R3/16784476), or run an additional wire in your umbilical for 12v+.
 
 #### Optional Hardware
-| Qty | Item                        | Notes                                                                                                                                   |
-| --- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | M3 Heatset Insert           | Sherpa-Mini and G2 / WristWatch front plate attachment                                                                                  |
-| 1   | M3 Heatset Insert           | DFA Custom bottom                                                                                                                       |
-| 2   | M2 x 10 self tapping screws | X End stop                                                                                                                              |
-| 1   | LED harness                 | 1x RGB Neopixel LEDs, and <br/> 2x RGB Sequin LEDs (0.8mm board thickness) <br/> 26 or 28 AWG wire. `[create LED harness instructions]` |
+| Qty | Item                        | Notes                                                                                                                                          |
+| --- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | M3 Heatset Insert           | Sherpa-Mini and G2 / WristWatch front plate attachment                                                                                         |
+| 1   | M3 Heatset Insert           | DFA Custom bottom                                                                                                                              |
+| 2   | M2 x 10 self tapping screws | X End stop                                                                                                                                     |
+| 1   | LED harness                 | 1x RGB Neopixel LEDs, and <br/> 2x RGB Sequin LEDs (0.8mm board thickness) <br/> 26 or 28 AWG wire. <br/> [Build instructions](led_harness.md) |
 
 <br/><br/><br/><br/>
 ⬅ [README](README.md) - [Printed Parts](printing.md) ➡
