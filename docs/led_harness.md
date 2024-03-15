@@ -9,3 +9,4 @@
 | Now solder the remaining three 70mm wires to the correct pads.<br/><br/>⚠️ **Ensure that these wires are positioned over the top of the other three and come over the PCB from the same side.**<br/>If they're not soldered like this, they won't go into the slot.	|	<img src='assets/images/led_harness/neopixel_side2.png' width=200 />|
 | Last bit of soldering.<br/>Take the remaining end of the 2nd 70mm wires to the corresponding V+, DIN and GND on the last sequin LED PCB.<br/><br/><br/>It should now look something like this. Cut the excess of the 200mm wires to length and crimp on your connector.<br/><br/>Jobs done.	|	<img src='assets/images/led_harness/led_harness_assembled.png' width=200 />|
 
+⬅  [Toolhead assembly](toolhead_assembly.md)
