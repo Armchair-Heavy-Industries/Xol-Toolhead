@@ -5,6 +5,7 @@
 It is recommended to print a calibration part of a known size and adjust slicer shrinkage compensation.
 
 ### Printer tuning
+⚠️ **Use Arachne wall generator. There is a known issue that is being worked on, for now, use Arachne.** 
 Making Xol easier to assemble also meant making the main hotend mount part a more difficult print. You will need to have a reasonably well callibrated printer (although it was tested on a barely tuned Ender 3). <br/>
 Some things in particular to note:
 * Support removal `If you're printing too hot or with insufficient cooling the built in supports may be dificult to remove.`
