@@ -28,8 +28,8 @@ Follow probe or extruder instructions for required hardware.
 | 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                    |
 | 2   | M3 x 16 SCHS            | HE Mount                                                                                                                            |
 | 2   | M3 x [20][8] SHCS       | Extruder to HE Mount. Length varies depending on extruder used <br/> `M3x20 used for Sherpa-Mini, M3x8 used for most others`        |
-| 4   | M3 x 16 SHCS            | 2x Extruder stepper to standoff <br/> 2x HE Mount feet                                                                              |
-| 2   | M3 x 12 SHCS            | CAN/EBB36 mount                                                                                                                     |
+| 4   | M3 x 16 SHCS            | 2x Extruder stepper to standoff <br/>2x CAN/EBB36 mount                                                                              |
+| 2   | M3 x 12 SHCS            | 2x HE Mount feet                                                                                                                     |
 | 5   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 2x MGN carriage clamping, 1x EBB Mount                                                                   |
 | 2   | M3 DIN9021 flat washer  | MGN Carriage clamping. `Alternatively use M3 + M5 stacked washers`                                                                  |
 | 2*  | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front. `*additional 1 if using extruder with front faceplate that includes extra point.`          |
