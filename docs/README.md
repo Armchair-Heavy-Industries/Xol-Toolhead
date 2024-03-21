@@ -21,6 +21,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
     * Part cooling fans slide into the top of the ducts are are secured with 2x M2.5x8 SHCS per fan
       * Hardware reduced from 8x M2 heatsets + 8 M2 screws to just 4 M2.5 screws
     * HE Fan now uses 4x M2.5x16 SHCS (previous M2.5x20 should still work)
+    * All four hotend mounting screws can now be used with Rapido and Dragon UHF when using Sherpa-Mini Extruder
   * Carriage
     * Xol Carriage is now a single piece print
     * Belt clips are now the Archetype belt clip system
