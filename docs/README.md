@@ -124,12 +124,13 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * MGN9H - 9mm Belts
 
 > [!WARNING]
-> Front Idlers  
-> Xol-Toolhead can collide with the stock voron front idlers for Trident and 2.4 when the toolhead is in the front corners of the build area. This can cause also issues with the homing sequence when homing X if the toolhead is at the front of the gantry on Y. <br/>
-Fully compatible idlers:  
-> * clee's [BFI (Beefy Front Idlers)](https://github.com/clee/VoronBFI)  
+> ## Front Idlers  
+> Xol-Toolhead can collide with the stock voron front idlers for Trident and 2.4 when the toolhead is in the front corners of the build area. This can cause also issues with the homing sequence when homing X if the toolhead is at the front of the gantry on Y. <br/><br/>
+> Fully compatible idlers:<br/>
+> * clee's [BFI (Beefy Front Idlers)](https://github.com/clee/VoronBFI)  <br/>
 > * Ramalama2's [Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
 
+<br/>
 
 > [!IMPORTANT]
 > We've made some instructions for printing and assembly.  
