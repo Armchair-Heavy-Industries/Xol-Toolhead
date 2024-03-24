@@ -12,7 +12,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 <img src='assets/images/Xol-Toolhead_render_with_both.png' width=100% />
 
 ## What's new
-`Xol-Toolhead Release 2024-03-10`
+`Xol-Toolhead Release [TBA:Current pre-release]`
 ### Major update
 * Quality of life improvements
   * Toolhead
