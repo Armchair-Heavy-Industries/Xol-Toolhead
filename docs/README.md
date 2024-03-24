@@ -44,7 +44,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Tool Requirement
   * Tightening the M3 SHCS of the toolhead "feet" to the carriage requires a M2.5 ball head hex driver. `This is due to the requirement to tighten these screws from a slight angle.`
 <details>
-<summary><h2>previous updates</h2> [click to expand]</summary>
+<summary><strong>Previous updates</strong> [click to expand]</summary>
 <br/>
 
 `Xol-Toolhead Release 2023-12-21`
