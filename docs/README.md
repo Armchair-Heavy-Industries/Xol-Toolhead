@@ -123,18 +123,19 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * MGN9H - 6mm Belts
 * MGN9H - 9mm Belts
 
-> [!WARNING] Front Idlers
+> [!WARNING] Front Idlers  
 > Xol-Toolhead can collide with the stock voron front idlers for Trident and 2.4 when the toolhead is in the front corners of the build area. This can cause also issues with the homing sequence when homing X if the toolhead is at the front of the gantry on Y. <br/>
-Fully compatible idlers:
-> * clee's [BFI (Beefy Front Idlers)](https://github.com/clee/VoronBFI)
-> * Ramalama2's [Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
+Fully compatible idlers:  
+> * clee's [BFI (Beefy Front Idlers)](https://github.com/clee/VoronBFI)  
+> * Ramalama2's [Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)  
 
-> [!IMPORTANT] We've made some instructions for printing and assembly.
-> They took ages to make, please read them.
-> * [Bill of Materials (BOM)](BOM.md)
-> * [Printing parts](printing.md)
-> * [Carriage assembly](xol_carriage_assembly.md)
-> * [Toolhead assembly](toolhead_assembly.md)
+
+> [!IMPORTANT] We've made some instructions for printing and assembly.  
+> They took ages to make, please read them.  
+> * [Bill of Materials (BOM)](BOM.md)  
+> * [Printing parts](printing.md)  
+> * [Carriage assembly](xol_carriage_assembly.md)  
+> * [Toolhead assembly](toolhead_assembly.md)  
 > * [LED Harness](led_harness.md)
 
 
