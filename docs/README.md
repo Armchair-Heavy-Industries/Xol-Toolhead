@@ -114,8 +114,8 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Klicky
 * Beacon
 * Euclid
-* Voron Design TAP `For RC8+ we suggest to use m3x50 BHCS instead of SHCS`
-'KlickyNG support has been removed'
+* Voron Design TAP `For RC8+ we suggest to use m3x50 BHCS instead of SHCS`<br/>
+* ⚠️ _KlickyNG support has been removed in this release_
 
 ### X-Rail/Belts
 * MGN12H - 6mm Belts
