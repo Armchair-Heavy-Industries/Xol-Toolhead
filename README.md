@@ -3,7 +3,7 @@
 # Xol Toolhead - Pre-release branch
 Xol Toolhead is the evolution of 'Mantis Xol 2' (<https://github.com/Armchair-Engineering/Mantis-Xol>).<br/>
 Aimed at modularity and quality of life improvements for installation and serviceability.<br/>
-We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still ugly. We wouldn't fix that.
+We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still a bit ugly. We wouldn't fix that.
 
 Project lead: [DW-Tas](https://github.com/DW-Tas)
 
