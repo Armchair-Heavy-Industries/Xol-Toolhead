@@ -43,8 +43,10 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
       * Large M3 washers and 2x M3x8 SHCS for MGN Carriage clamps (not optional, required for carriage strength)
 * Tool Requirement
   * Tightening the M3 SHCS of the toolhead "feet" to the carriage requires a M2.5 ball head hex driver. `This is due to the requirement to tighten these screws from a slight angle.`
+<details>
+<summary><h2>previous updates</h2> [click to expand]</summary>
+<br/>
 
-### previous updates
 `Xol-Toolhead Release 2023-12-21`
 * Quality of life improvements
   * Cable routing holes are now on both sides of the toolhead
@@ -81,6 +83,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
   * Improved serviceability - remove the toolhead from the carriage without disassembly in the printer. Unless you use Voron TAP or refuse to buy M2.5 hardware for Xol Carriage. Buy the m2.5 hardware, it's worth it trust us.
   * Modular probe mounting system - change probes without changing the whole carriage _`*Except for KlickyNG`_
 * These carriage changes mean you can use any carriage that a Stealthburner bolts onto. (Our Xol-Carriage, or the stock voron carriage even.)
+</details>
 
 ## Supported hardware
 ### Hotends
