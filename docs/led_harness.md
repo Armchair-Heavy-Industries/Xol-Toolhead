@@ -1,5 +1,7 @@
 # Build instructions for Xol Toolhead LED harness
 
+`Only compatible with thin PCB board sequins. Known working source:` [FYSETC (Ali Express)](https://www.aliexpress.com/item/1005006023213341.html)
+
 | Notes                                                                                                                                                                                                                                                                               | Image                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Required Tools                                                                                                                                                                                                                                                                      | Wire cutters<br/>Wire strippers<br/>Soldering equipment<br/>Helping hands<br/>Crimping tools to suit your connection type                                                                        |

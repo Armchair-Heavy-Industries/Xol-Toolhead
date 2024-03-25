@@ -58,7 +58,7 @@ Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whi
 | 1   | M3 Heatset Insert           | Sherpa-Mini and G2 / WristWatch front plate attachment                                                                                         |
 | 1   | M3 Heatset Insert           | DFA Custom bottom                                                                                                                              |
 | 2   | M2 x 10 self tapping screws | X End stop                                                                                                                                     |
-| 1   | LED harness                 | 1x RGB Neopixel LEDs, and <br/> 2x RGB Sequin LEDs (0.8mm board thickness) <br/> 26 or 28 AWG wire. <br/> [Build instructions](led_harness.md) |
+| 1   | LED harness                 | 1x RGB Neopixel LEDs, and <br/> 2x RGB Sequin LEDs (0.8mm board thickness) <br/> 26 or 28 AWG wire. <br/> [Build instructions](led_harness.md)<br/>`Only compatible with the thin PCB board sequins. Known working source:` [FYSETC (Ali Express)](https://www.aliexpress.com/item/1005006023213341.html) |
 
 <br/><br/><br/><br/>
 ⬅ [README](README.md) - [Printed Parts](printing.md) ➡
