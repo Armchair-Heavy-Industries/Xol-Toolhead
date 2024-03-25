@@ -1,6 +1,8 @@
 # Build instructions for Xol Toolhead LED harness
-
-`Only compatible with thin PCB board sequins. Known working source:` [FYSETC (Ali Express)](https://www.aliexpress.com/item/1005006023213341.html)
+> [!WARNING]
+> ## Sequin PCB thickness   
+> The hotend mounts are only compatible with thin PCB board sequins.  
+> Known compatible source: [FYSETC (Ali Express)](https://www.aliexpress.com/item/1005006023213341.html)
 
 | Notes                                                                                                                                                                                                                                                                               | Image                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
