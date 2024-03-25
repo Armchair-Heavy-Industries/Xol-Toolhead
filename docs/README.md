@@ -96,7 +96,7 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * Dragon Standard / High Flow
 * Dragon Ace
 * Revo Voron
-* NF-Crazy Volcano (or standard with v6 melt zone extender) 'NF-Crazy with standard wide block no longer supported without extender'
+* NF-Crazy Volcano (or standard with v6 melt zone extender) `NF-Crazy with standard wide block no longer supported without extender`
 
 ### Extruders
 * Sherpa-Mini
