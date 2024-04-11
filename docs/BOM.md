@@ -5,13 +5,14 @@ The chances are that something was missed, but if you have a good mix of M2, M2.
 ## Carriage
 
 #### Required Hardware
-| Qty | Item                        | Notes                                                                                     |
-| --- | --------------------------- | ----------------------------------------------------------------------------------------- |
-| 5   | M3 Heatset Insert           | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                      |
-| 6   | M3 x 8 SHCS                 | 4x MGN carriage mounting, 2x MGN carriage clamps                                          |
-| 4   | M3 Hex Nut                  | 2x MGN carriage clamps, 2x toolhead mounting                                              |
-| 2   | M3 x 30 Pin                 | Belt mounting system                                                                      |
-| 2   | 22.5mm lenght M4 metal tube | 4mm OD, 0.45mm wall width. Belt mounting system.`4/3mm PTFE tube can be used temporarily` |
+| Qty | Item                                          | Notes                                                                                     |
+| --- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 5   | M3 Heatset Insert                             | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                      |
+| 6   | M3 x 8 SHCS                                   | 4x MGN carriage mounting, 2x MGN carriage clamps                                          |
+| 4   | M3 Hex Nut                                    | 2x MGN carriage clamps, 2x toolhead mounting                                              |
+| 2   | M3 x 30 Pin                                   | Belt mounting system                                                                      |
+| 2   | 22.5mm lenght M4 metal tube                   | 4mm OD, 0.45mm wall width. Belt mounting system.`4/3mm PTFE tube can be used temporarily` |
+| 2   | 1.8mm wide cable tie or 0.5mm solid core wire | To attach M4 tube to belt clips as per Archetype clips                                    |
 
 #### Probe/Extruder Hardware
 Follow probe or extruder instructions for required hardware.
