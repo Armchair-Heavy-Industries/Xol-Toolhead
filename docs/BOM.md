@@ -10,6 +10,7 @@ The chances are that something was missed, but if you have a good mix of M2, M2.
 | 5   | M3 Heatset Insert                             | Standard Voron spec: 5mm Outer Diameter x 4mm Length                                      |
 | 6   | M3 x 8 SHCS                                   | 4x MGN carriage mounting, 2x MGN carriage clamps                                          |
 | 4   | M3 Hex Nut                                    | 2x MGN carriage clamps, 2x toolhead mounting                                              |
+| 2   | M3 DIN9021 flat washer  | MGN Carriage clamping. `Alternatively use M3 + M5 stacked washers`                                                                  |
 | 2   | M3 x 30 Pin                                   | Belt mounting system                                                                      |
 | 2   | 22.5mm lenght M4 metal tube                   | 4mm OD, 0.45mm wall width. Belt mounting system.`4/3mm PTFE tube can be used temporarily` |
 | 2   | 1.8mm wide cable tie or 0.5mm solid core wire | To attach M4 tube to belt clips as per Archetype clips                                    |
@@ -32,7 +33,6 @@ Follow probe or extruder instructions for required hardware.
 | 4   | M3 x 16 SHCS            | 2x Extruder stepper to standoff <br/>2x CAN/EBB36 mount                                                                              |
 | 2   | M3 x 12 SHCS            | 2x HE Mount feet                                                                                                                     |
 | 5   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 2x MGN carriage clamping, 1x EBB Mount                                                                   |
-| 2   | M3 DIN9021 flat washer  | MGN Carriage clamping. `Alternatively use M3 + M5 stacked washers`                                                                  |
 | 2*  | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front. `*additional 1 if using extruder with front faceplate that includes extra point.`          |
 | 4   | M2.5 x 16 SHCS          | HE Fan <br/>                                                                                                                        |
 | 4   | M2.5 x 8 SHCS           | Part cooling fan mounting                                                                                                           |
