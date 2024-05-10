@@ -1,7 +1,5 @@
-### Xol-Toolhead and Xol-Carriage CAD
-* The CAD in the 'assemblies' folder is mostly an assembly aid. Updates and bug fixes may not be applied there in a timely manor.
-* The CAD in the 'parts' folder should be reasonably up to date
+# Pre-Release branch will not have CAD
 
-`Use this at your own risk`
-<br/>
-`print from the STLs`
+The CAD will be released when things are moved to the main branch.
+
+`Please don't send messages asking for the CAD`
