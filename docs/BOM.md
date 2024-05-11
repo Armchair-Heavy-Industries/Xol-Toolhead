@@ -31,8 +31,7 @@ Follow probe or extruder instructions for required hardware.
 | 2   | M3 x 16 SCHS            | HE Mount                                                                                                                            |
 | 2   | M3 x [20][8] SHCS       | Extruder to HE Mount. Length varies depending on extruder used <br/> `M3x20 used for Sherpa-Mini, M3x8 used for most others`        |
 | 4   | M3 x 16 SHCS            | 2x Extruder stepper to standoff <br/>2x CAN/EBB36 mount                                                                              |
-| 2   | M3 x 12 SHCS            | 2x HE Mount feet                                                                                                                     |
-| 5   | M3 x 8 SHCS             | 2x HE Adapter to carriage, 2x MGN carriage clamping, 1x EBB Mount                                                                   |
+| 7   | M3 x 8 SHCS             | 2x HE Mount feet, 2x HE Adapter to carriage, 2x MGN carriage clamping, 1x EBB Mount                                                                   |
 | 2*  | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front. `*additional 1 if using extruder with front faceplate that includes extra point.`          |
 | 4   | M2.5 x 16 SHCS          | HE Fan <br/>                                                                                                                        |
 | 4   | M2.5 x 8 SHCS           | Part cooling fan mounting                                                                                                           |
