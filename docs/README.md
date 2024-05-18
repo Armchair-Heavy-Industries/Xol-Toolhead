@@ -101,13 +101,15 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 ### Extruders
 * Sherpa-Mini
 * Annex Double Folded Ascender
-* Galileo G2SA
-* WristWatch G2
+* Galileo G2SA *
+* WristWatch G2 *
 * WristWatch BMG
 * Escapement (experimental)
 * Vz-Hextrudort-Low
 * LGX-Lite
 * Orbiter v2.0
+
+`⚠️ * G2SA and WWG2 not compatible with XolPAP `
 
 ### Probes
 * PCB Klicky

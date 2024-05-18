@@ -57,6 +57,7 @@ If you're using XolPAP remote cooling, you will need either standard or UHF leng
 * Standard: [XolPAP Standard Length Duct.stl](<../STL/XolPAP ducts/XolPAP Standard Length Duct.stl>)
 * UHF: [XolPAP UHF Length Duct.stl](<../STL/XolPAP ducts/XolPAP UHF Length Duct.stl>)
 
+`⚠️ * G2SA and WWG2 extruders not compatible with XolPAP `
 
 ### Extruder Mount
 
