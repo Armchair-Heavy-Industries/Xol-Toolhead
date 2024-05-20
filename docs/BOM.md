@@ -25,14 +25,14 @@ Follow probe or extruder instructions for required hardware.
 #### Required Hardware
 | Qty | Item                    | Notes                                                                                                                               |
 | --- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 5*  | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * Extruder Mount `5th heatset for extruders with additional front screw` |
-| 1   | M3 Hex Nut              | Hotend Mount mount, front of Extruder Block                                                                                         |
+| 3*  | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * Extruder Mount `3rd heatset for extruders with additional front screw` |
+| 3   | M3 Hex Nut              | 2x Extruder Moung <br/>1x Hotend Mount mount below front of Extruder Block                                                                                         |
 | 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                    |
 | 2   | M3 x [20][8] SHCS       | Extruder to HE Mount. Length varies depending on extruder used <br/> `M3x20 used for Sherpa-Mini, M3x8 used for most others`        |
 | 6   | M3 x 16 SHCS            | 2x Through Extruder and hotend mounts to carriage <br />2x Extruder stepper to standoff <br/>2x CAN/EBB36 mount                     |
 | 7   | M3 x 8 SHCS             | 2x HE Mount feet, 2x HE Adapter to carriage, 2x MGN carriage clamping, 1x EBB Mount                                                 |
 | 2*  | M3 x 6 BHCS             | Extruder Mount to Hotend Mount at front. `*additional 1 if using extruder with front faceplate that includes extra point.`          |
-| 4   | M2.5 x 16 SHCS          | HE Fan <br/>                                                                                                                        |
+| 4   | M2.5 x 16 SHCS          | HE Fan                                                                                                                       |
 | 4   | M2.5 x 8 SHCS           | Part cooling fan mounting                                                                                                           |
 | 4*  | M2.5 x 8 SHCS           | *additional to above if using XolPAP ducts                                                                                          |
 | 1   | Short PTFE tube         | Between extruder and hotend                                                                                                         |
@@ -49,7 +49,7 @@ Follow probe or extruder instructions for required hardware.
 | 1*  | 7040 or other suitable CPAP remote cooling fan |                                                                                                                                                                                                                                                                                                       | XolPAP only                                                                                                                                                                                                                                                                                |
 | 1*  | 15mm ID CPAP flexible hose                     |                                                                                                                                                                                                                                                                                                       | XolPAP only                                                                                                                                                                                                                                                                                |
 
-Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whichever suits your setup better. If you only have 24V available, you can use a 24V-12V buck converter like [K78L12-500R3](https://www.digikey.com/en/products/detail/mornsun-america-llc/K78L12-500R3/16784476), or run an additional wire in your umbilical for 12v+.
+Additional notes: Delta's 5V and 12V variants provide the same airflow, pick whichever suits your setup better. If you only have 24V available, you can use a 24V-12V buck converter or run an additional wire in your umbilical for 12v+.
 
 #### Optional Hardware
 | Qty | Item                        | Notes                                                                                                                                          |
