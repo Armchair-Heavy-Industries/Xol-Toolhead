@@ -26,7 +26,7 @@ Follow probe or extruder instructions for required hardware.
 | Qty | Item                    | Notes                                                                                                                               |
 | --- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | 3*  | M3 Heatset Insert       | Standard Voron spec: 5mm Outer Diameter x 4mm Length <br/> * Extruder Mount `3rd heatset for extruders with additional front screw` |
-| 3   | M3 Hex Nut              | 2x Extruder Moung <br/>1x Hotend Mount mount below front of Extruder Block                                                                                         |
+| 3   | M3 Hex Nut              | 2x Extruder Mount <br/>1x Hotend Mount mount below front of Extruder Block                                                                                         |
 | 2   | M3 x 20 Metal Stand-off | CAN/EBB Mounting                                                                                                                    |
 | 2   | M3 x [20][8] SHCS       | Extruder to HE Mount. Length varies depending on extruder used <br/> `M3x20 used for Sherpa-Mini, M3x8 used for most others`        |
 | 6   | M3 x 16 SHCS            | 2x Through Extruder and hotend mounts to carriage <br />2x Extruder stepper to standoff <br/>2x CAN/EBB36 mount                     |
