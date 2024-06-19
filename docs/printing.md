@@ -3,85 +3,82 @@
 ### Xol parts are not scaled to suit any particular filament. You will need to calibrate your printer/filament appropriately before printing Xol Parts
 
 It is recommended to print a calibration part of a known size and adjust slicer shrinkage compensation.
-There are two test STLs below that include one belt clip and a portion of the rear carriage where the belt clip should attach. It is recommended to use this part to ensure your printer/filament is calibrated. These parts and the M3 pin should snap together with a satisfying "click" but not be too tight to take apart.
-* [Xol_Carriage_test_piece_6mm belts](<../STL/Test Prints/Xol_Carriage_test_piece_6mm.stl>)
-* [Xol_Carriage_test_piece_9mm belts](<../STL/Test Prints/Xol_Carriage_test_piece_9mm.stl>)
+
+### Printer tuning
+Making Xol easier to assemble also meant making the main hotend mount part a more difficult print. You will need to have a reasonably well callibrated printer (although it was tested on a barely tuned Ender 3). <br/>
+Some things in particular to note:
+* Support removal `If you're printing too hot or with insufficient cooling the built in supports may be dificult to remove.`
+* Overhangs `They're not too steep, but will be a problem if your not printing your perimeters "inside to outside".`
+* Wall widths `Some of the supports have a built in "interface" layers. Make sure your printer profile allows printing of walls down to at least 0.4mm. Check that you can see them in your slicer before you print them. DO NOT use walls wider than 0.55mm`
 
 ## What to print
-There are many combinations of carriages/hotends/extruders that can be used with Xol. The tables below outline what you should print
+There are many combinations of carriages/hotends/extruders that can be used with Xol. The tables below outline what you should print.
 
-#### Carriage
-##### Xol Carriage
-Pick the parts you need from the table below and follow the instructions in [xol_carriage_assembly.md](xol_carriage_assembly.md) to build.
-<br/>
->[!NOTE]
->*Standard belt clips are a tighter fit than *EPDM belt clips to suit the different belt width of EPDM high temperature belts.
+### Carriage
+#### Xol Carriage
+Pick the parts you need from the lists below and follow the instructions in [xol_carriage_assembly.md](xol_carriage_assembly.md) to build.
 
-Carriage/Belt Combination | Parts
----------|----------
-MGN12H - 6MM Belts <br/> `Voron standard` | * 1x [Xol Carriage - Rear - MGN12H - 6MM.stl](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Rear - MGN12H - 6MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN12H - 6MM.stl](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Front - MGN12H - 6MM.stl>), or [KlickyNG Version](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Front - MGN12H - 6MM [KlickyNG].stl>) <br/> * 2x Belt clips for either standard or EPDM belts <br/> ** [Standard](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - S.stl>) <br/> ** [EPDM](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - E.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<../STL/Xol-Carriage/Probe Modules>)
-MGN9H - 6MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 6MM.stl](<../STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Rear - MGN9H - 6MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN9H - 6MM.stl](<../STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Front - MGN9H - 6MM.stl>), or [KlickyNG Version](<../STL/Xol-Carriage/MGN9H 6MM Belt/Xol Carriage - Front - MGN9H - 6MM [KlickyNG].stl>) <br/> * 2x Belt clips for either standard or EPDM belts <br/> ** [Standard](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - S.stl>) <br/> ** [EPDM](<../STL/Xol-Carriage/MGN12H 6MM Belt [default]/Xol Carriage - Belt Clip - 6MM - E.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<../STL/Xol-Carriage/Probe Modules>)
-MGN9H - 9MM Belts | * 1x [Xol Carriage - Rear - MGN9H - 9MM.stl](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Rear - MGN9H - 9MM.stl>) <br/> * 1x [Xol Carriage - Front - MGN9H - 9mm.stl](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Front - MGN9H - 9mm.stl>), or [KlickyNG Version](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Front - MGN9H - 9mm [KlickyNG].stl>) <br/> * 2x Belt clips for either standard or EPDM belts <br/> ** [Standard](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Belt Clip - 9MM - S.stl>) <br/> ** [EPDM](<../STL/Xol-Carriage/MGN9H 9MM Belt/Xol Carriage - Belt Clip - 9MM - E.stl>) <br/> * 1x Probe Module to suit your probe & duct length [Probe Modules](<../STL/Xol-Carriage/Probe Modules>)
+Carriage Size
+* MGN12H: [Xol-Carriage_MGN12H.stl](../STL/Xol-Carriage/Xol-Carriage_MGN12H.stl)
+* MGN9H: [Xol-Carriage_MGN9H.stl](../STL/Xol-Carriage/Xol-Carriage_MGN9H.stl)
 
-<br/>
+Belt Width
+* 6MM: [[a]_belt_clamp_6mm_x2.stl](../STL/Xol-Carriage/[a]_belt_clamp_6mm_x2.stl)
+* 9MM: [[a]_belt_clamp_9mm_x2.stl](../STL/Xol-Carriage/[a]_belt_clamp_9mm_x2.stl)
 
-`CNC carriages are available from some members of the community. Another source is` [Funssor on AliExpress](https://www.aliexpress.com/item/1005006143086402.html)
+Probe Modules
+* Pick the module to match your supported probe from the [Probe Modules](<../STL/Xol-Carriage/Probe Modules>) folder. <br/>
+`Probe length should match the hotend length (standard or UHF)`
 
-
-##### Voron Design TAP
+#### Voron Design TAP
 Follow instructions from Voron Design <br /> _`For TAP RC8, replace the M3x50 SCHS with M3x50 BHCS to avoid bed clearance issues with regular length Xol Ducts`_
 
-#### Hotend Mount
-Hotend mounts are now separate from extruder mounts. Pick one option from the table below either with or without heatset inserts for attaching the hotend cooling fan.
+### Hotend Mount
+Pick one option from the table below, depending of if you're using 4010 blower fans or remote cooling (XolPAP) for part cooling.
 
+| Hotend                              | 4010 Blower                                                                                             | XolPAP (Remote Cooling)                                                                                       | Duct Length (for probe module / XolPAP) |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Rapido HF                           | [Xol_HE_Mount-Rapido_HF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_HF_Fan.stl>) <br/><br/> [Xol_HE_Mount-Rapido_v2_HF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_v2_HF_Fan.stl>)                   | [Xol_HE_Mount-Rapido_HF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_HF_XolPAP.stl>) <br/><br/> [Xol_HE_Mount-Rapido_v2_HF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_v2_HF_XolPAP.stl>)                    | Standard                                |
+| Rapido UHF                          | [Xol_HE_Mount-Rapido_UHF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_UHF_Fan.stl>) <br/><br/> [Xol_HE_Mount-Rapido_v2_UHF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_v2_UHF_Fan.stl>)                  | [Xol_HE_Mount-Rapido_UHF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_UHF_XolPAP.stl>) <br/><br/> [Xol_HE_Mount-Rapido_v2_UHF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_v2_UHF_XolPAP.stl>)                  | UHF                                     |
+| DropEffect XG                       | [Xol_HE_Mount-XG_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-XG_Fan.stl>)                                   | [Xol_HE_Mount-XG_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-XG_XolPAP.stl>)                                   | Standard                                |
+| DropEffect NeXtG (without extender) | [Xol_HE_Mount-DragonSF-HF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonSF-HF_Fan.stl>)                 | [Xol_HE_Mount-DragonSF-HF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonSF-HF_XolPAP.stl>)                 | Standard                                |
+| DropEffect NeXtG (with extender)    | [Xol_HE_Mount-DragonUHF_Mini_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonUHF_Mini_Fan.stl>)           | [Xol_HE_Mount-DragonUHF_Mini_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonUHF_Mini_XolPAP.stl>)           | Standard                                |
+| Red Lizard K1-UHF                   | [Xol_HE_Mount-Rapido_UHF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_UHF_Fan.stl>)                   | [Xol_HE_Mount-Rapido_UHF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Rapido_UHF_XolPAP.stl>)                   | UHF                                     |
+| Dragon UHF                          | [Xol_HE_Mount-DragonUHF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonUHF_Fan.stl>)                     | [Xol_HE_Mount-DragonUHF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonUHF_XolPAP.stl>)                     | UHF                                     |
+| Dragon UHF-Mini (extender removed)  | [Xol_HE_Mount-DragonUHF_Mini_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonUHF_Mini_Fan.stl>)           | [Xol_HE_Mount-DragonUHF_Mini_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonUHF_Mini_XolPAP.stl>)           | Standard                                |
+| Dragon Standard / High Flow         | [Xol_HE_Mount-DragonSF-HF_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonSF-HF_Fan.stl>)                 | [Xol_HE_Mount-DragonSF-HF_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-DragonSF-HF_XolPAP.stl>)                 | Standard                                |
+| Dragon Ace (without extender)       | [Xol_HE_Mount-Dragon-Ace_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Dragon-Ace_Fan.stl>)                   | [Xol_HE_Mount-Dragon-Ace_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Dragon-Ace_XolPAP.stl>)                   | Standard                                |
+| Dragon Ace (with extender)          | [Xol_HE_Mount-Dragon-Ace_Extender_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Dragon-Ace_Extender_Fan.stl>) | [Xol_HE_Mount-Dragon-Ace_Extender_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Dragon-Ace_Extender_XolPAP.stl>) | UHF                                     |
+| Revo Voron                          | [Xol_HE_Mount-Revo-Voron_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-Revo-Voron_Fan.stl>)                   | [Xol_HE_Mount-Revo-Voron_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-Revo-Voron_XolPAP.stl>)                   | Standard                                |
+| NF-Crazy Volcano                    | [Xol_HE_Mount-NF-Crazy_Volcano_Fan.stl](<../STL/HE Mounts/Xol_HE_Mount-NF-Crazy_Volcano_Fan.stl>)       | [Xol_HE_Mount-NF-Crazy_Volcano_XolPAP.stl](<../STL/HE Mounts/Xol_HE_Mount-NF-Crazy_Volcano_XolPAP.stl>)       | UHF                                     |
 
-| Hotend | With fan heatset inserts <br/> `*M2.5 Heatsets required` | Without fan heatset inserts <br/> `*screws thread into plastic`|
----------|----------|---------|
-| Rapido (HF & UHF)                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)          | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)          |
-| DropEffect XG                       | N/A     |   [Xol HE Mount - XG.stl](<../STL/HE Mounts/Xol HE Mount - XG.stl>)     |
-| DropEffect NeXt-G (Std Mode)                      | [Xol HE Mount - Dragon SF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF_fanHS.stl>)    | [Xol HE Mount - Dragon SF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF.stl>)    |
-| DropEffect NeXt-G (UHF Mode)                      | [Xol HE Mount - Dragon UHF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF_fanHS.stl>)  | [Xol HE Mount - Dragon UHF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF.stl>)  |
-| Red Lizard K1-UHF                   | [Xol HE Mount - Rapido_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Rapido_fanHS.stl>)          | [Xol HE Mount - Rapido.stl](<../STL/HE Mounts/Xol HE Mount - Rapido.stl>)          |
-| Dragon UHF/Mini/HF with V6 Extender | [Xol HE Mount - Dragon UHF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF_fanHS.stl>)  | [Xol HE Mount - Dragon UHF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon UHF.stl>)  |
-| Dragon ST/HF                        | [Xol HE Mount - Dragon SF_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF_fanHS.stl>)    | [Xol HE Mount - Dragon SF.stl](<../STL/HE Mounts/Xol HE Mount - Dragon SF.stl>)    |
-| Dragon Ace                          | [Xol HE Mount - Dragon-Ace_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Dragon-Ace_fanHS.stl>) | [Xol HE Mount - Dragon-Ace.stl](<../STL/HE Mounts/Xol HE Mount - Dragon-Ace.stl>) |
-| Revo Voron                          | [Xol HE Mount - Revo-Voron_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - Revo-Voron_fanHS.stl>)  | [Xol HE Mount - Revo-Voron.stl](<../STL/HE Mounts/Xol HE Mount - Revo-Voron.stl>)  |
-| NF-Crazy                            | [Xol HE Mount - NF-Crazy_fanHS.stl](<../STL/HE Mounts/Xol HE Mount - NF-Crazy_fanHS.stl>)      | [Xol HE Mount - NF-Crazy.stl](<../STL/HE Mounts/Xol HE Mount - NF-Crazy.stl>)      |
+#### XolPAP Ducts
+If you're using XolPAP remote cooling, you will need either standard or UHF length ducts:
+* Standard: [XolPAP Standard Length Duct.stl](<../STL/XolPAP ducts/XolPAP Standard Length Duct.stl>)
+* UHF: [XolPAP UHF Length Duct.stl](<../STL/XolPAP ducts/XolPAP UHF Length Duct.stl>)
 
+`⚠️ * G2SA and WWG2 extruders not compatible with XolPAP `
 
-#### Extruder Mount
+### Extruder Mount
 
 Pick one extruder mount from the table below to match your extruder, and if it's going on Xol-Carriage or on TAP/Voron carriage.
 
 | Extruder                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Xol-Carriage                                                                                                                                                                                                | TAP / Voron Carriage                                                                                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Sherpa-Mini / <br/> Sharkfin  <br/>`K-face plate and optional` <br/> `short idler arm for Sherpa-Mini ` <br/> `from Annex Engineering`<br/> [Sherpa front k-face](<https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev15.STL>) <br/> [Sherpa short idler arm](<https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/optional_parts/%5Ba%5D_idler_arm_short_x1_rev16a.STL>) | [Xol Extruder Mount - Sherpa-Mini.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Sherpa-Mini.stl>)                                                                                                       | [Xol Extruder Mount - Sherpa Mini - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Sherpa Mini - TAP.stl>)                                                                                                        |
+| Sherpa-Mini / <br/> Sharkfin  <br/>`K-face plate and optional` <br/> `short idler arm for Sherpa-Mini ` <br/> `from Annex Engineering`<br/> [Sherpa front k-face](<https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/optional_parts/%5Ba%5D_housing_front_k_x1_rev15.STL>) <br/> [Sherpa short idler arm](<https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/blob/master/STLs/optional_parts/%5Ba%5D_idler_arm_short_x1_rev16a.STL>) | [Xol Extruder Mount - Sherpa-Mini.3mf](<../STL/Extruder Mounts/Xol Extruder Mount - Sherpa-Mini.3mf>)                                                                                                       | [Xol Extruder Mount - Sherpa Mini - TAP.3mf](<../STL/Extruder Mounts/Xol Extruder Mount - Sherpa Mini - TAP.3mf>)                                                                                                        |
 | Annex Double Folded Ascender                                                                                                                                                                                                                                                                                                                                                                                                                                         | [Xol Extruder Mount - DFA.stl](<../STL/Extruder Mounts/Xol Extruder Mount - DFA.stl>) <br/>   *License [Note](<DFA_MOD_License.md>)                                                                         | Not Supported                                                                                                                                                                                                            |
 | Vz-Hextrudort-Low / <br/> LGX-Lite                                                                                                                                                                                                                                                                                                                                                                                                                                   | [Xol Extruder Mount - VZ-Hex+LGX-L.stl](<../STL/Extruder Mounts/Xol Extruder Mount - VZ-Hex+LGX-L.stl>)                                                                                                     | [Xol Extruder Mount - VZ-Hex+LGX-L - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - VZ-Hex+LGX-L - TAP.stl>)                                                                                                      |
-| Galileo G2SA (Orbiter mount pattern)                                                                                                                                                                                                                                                                                                                                                                                                                                 | [Xol Extruder Mount - G2SA.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA.stl>), AND <br/>  [G2SA front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/G2SA front for Xol Extruder Mount.stl>) | [Xol Extruder Mount - G2SA - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA - TAP.stl>) , AND <br/>  [G2SA front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/G2SA front for Xol Extruder Mount.stl>) |
-| WristWatch G2 (Orbiter mount pattern)                                                                                                                                                                                                                                                                                                                                                                                                                                 | [Xol Extruder Mount - G2SA.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA.stl>), AND <br/>  [WWG2 front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/WWG2 front for Xol Extruder Mount.stl>) | [Xol Extruder Mount - G2SA - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA - TAP.stl>) , AND <br/>  [WWG2 front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/WWG2 front for Xol Extruder Mount.stl>) |
+| Galileo G2SA (Orbiter mount pattern) <br/> `NOT XolPAP Compatible`                                                                                                                                                                                                                                                                                                                                                                                                                                | [Xol Extruder Mount - G2SA.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA.stl>), AND <br/>  [G2SA front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/G2SA front for Xol Extruder Mount.stl>) | [Xol Extruder Mount - G2SA - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA - TAP.stl>) , AND <br/>  [G2SA front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/G2SA front for Xol Extruder Mount.stl>) |
+| WristWatch G2 (Orbiter mount pattern)  <br/> `NOT XolPAP Compatible`                                                                                                                                                                                                                                                                                                                                                                                                                                | [Xol Extruder Mount - G2SA.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA.stl>), AND <br/>  [WWG2 front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/WWG2 front for Xol Extruder Mount.stl>) | [Xol Extruder Mount - G2SA - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA - TAP.stl>) , AND <br/>  [WWG2 front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/WWG2 front for Xol Extruder Mount.stl>) |
 | WristWatch BMG                                                                                                                                                                                                                                                                                                                                                                                                                                | [Xol Extruder Mount - G2SA.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA.stl>), AND <br/>  [WWBMG front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/WWBMG front for Xol Extruder Mount.stl>) | [Xol Extruder Mount - G2SA - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - G2SA - TAP.stl>) , AND <br/>  [WWBMG front for Xol Extruder Mount.stl](<../STL/Extruder Mounts/WWBMG front for Xol Extruder Mount.stl>) |
 | Escapement                                                                                                                                                                                                                                                                                                                                                                                                                                                           | [Xol Extruder Mount - Escapement.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Escapement.stl>)                                                                                                         | [Xol Extruder Mount - Escapement - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Escapement - TAP.stl>)                                                                                                          |
 | Orbiter v2.0                                                                                                                                                                                                                                                                                                                                                                                                                                                         | [Xol Extruder Mount - Orbiter V2.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Orbiter V2.stl>)                                                                                                         | [Xol Extruder Mount - Orbiter V2 - TAP.stl](<../STL/Extruder Mounts/Xol Extruder Mount - Orbiter V2 - TAP.stl>)                                                                                                          |
 
-#### Ducts
-Print the ducts that match the length of your hotend and if you are using LEDs or not.
-Some Trident installs require a different right hand duct to prevent contact with top of ball screw when homing X with carriage at front of build plate.
-
-|Length | Ducts |
-|---------|----------|
-| Standard length<br/>*Rapido HF<br/>*XG<br/>*NeXt-G<br/>*Red Lizard<br/>*Dragon ST/HF/UHF Mini <br/>*Dragon ST/HF with V6 extender <br/>*Revo Voron <br/>*NF Crazy standard | Standard <br/>* [Left](<../STL/Ducts/Xol Ducts - Tri-Vane Asym Left.stl>)<br/>* [Right](<../STL/Ducts/Xol Ducts - Tri-Vane Asym Right.stl>)<br/>* [Right (Trident)](<../STL/Ducts/Xol Ducts - Tri-Vane Asym Right - Trident.stl>) <br/><br/>LED<br/>* [Left LED](<../STL/Ducts/Xol LED Ducts - Tri-Vane Asym Left.stl>)<br/>* [Right LED](<../STL/Ducts/Xol LED Ducts - Tri-Vane Asym Right.stl>)<br/>* [Right LED (Trident)](<../STL/Ducts/Xol LED Ducts - Tri-Vane Asym Right - Trident.stl>) | Standard [STL Link]<br/>LED [STL Link] |
-| UHF Length <br/>*Rapido UHF <br/>*Dragon UHF <br/>*NF Crazy Volcano  | Standard [Left UHF](<../STL/Ducts/Xol Ducts UHF - Tri-Vane Asym Left.stl>)<br/>* [Right UHF](<../STL/Ducts/Xol Ducts UHF - Tri-Vane Asym Right.stl>)<br/>* [Right UHF (Trident)](<../STL/Ducts/Xol Ducts UHF - Tri-Vane Asym Right - Trident.stl>) <br/><br/>LED<br/>* [LED UHF Left](<../STL/Ducts/Xol LED Ducts UHF - Tri-Vane Asym Left.stl>)<br/>* [LED UHF Right](<../STL/Ducts/Xol LED Ducts UHF - Tri-Vane Asym Right.stl>)<br/>* [LED UHF Right (Trident)](<../STL/Ducts/Xol LED Ducts UHF - Tri-Vane Asym Right - Trident.stl>) |
  
- #### Faceplates
- For your faceplate parts, print all the STLs from one cell in the table below. Files with names starting with [t] indicate transparent or translucent filament to be used as a diffuser for the status LED.
- | Hotend Mount           | No LED          | Status LED                 | Rainbow BARF Status LED     |
- | --------------------- | --------------- | -------------------------- | --------------------------- |
- | | ![Standard](assets/images/xol_toolhead/Faceplate_standard.png)|![LED](assets/images/xol_toolhead/Faceplate_LED.png) |![BARF](assets/images/xol_toolhead/Faceplate_BARF.png) |
- | Regular Hotend Mounts | [Faceplate - Standard - Front.stl](<../STL/Faceplates/Faceplate - Standard - Front.stl>) <br/> [Faceplate - Standard - Rear.stl](<../STL/Faceplates/Faceplate - Standard - Rear.stl>) | [Faceplate - LED - Front.stl](<../STL/Faceplates/Faceplate - LED - Front.stl>) <br/> [Faceplate - LED - Rear.stl](<../STL/Faceplates/Faceplate - LED - Rear.stl>) <br/> [[t] Logo LED diffuser.stl](<../STL/Faceplates/[t] Logo LED diffuser.stl>) | [Faceplate - BARF LED - Front.stl](<../STL/Faceplates/Faceplate - BARF LED - Front.stl>) <br/> [Faceplate - BARF LED - Rear.stl](<../STL/Faceplates/Faceplate - BARF LED - Rear.stl>) <br/> [[t] Logo BARF LED diffuser.stl](<../STL/Faceplates/[t] Logo BARF LED diffuser.stl>)  |
- | Low Hotend Mounts <br/> `DropEffect XG and NF-Crazy`    | [Faceplate - Standard - Front - Low.stl](<../STL/Faceplates/Faceplate - Standard - Front - Low.stl>) <br/> [Faceplate - Standard - Rear - Low.stl](<../STL/Faceplates/Faceplate - Standard - Rear - Low.stl>) | [Faceplate - LED - Front.stl](<../STL/Faceplates/Faceplate - LED - Front.stl>) <br/> [Faceplate - LED - Rear - Low.stl](<../STL/Faceplates/Faceplate - LED - Rear - Low.stl>) <br/> [[t] Logo LED diffuser.stl](<../STL/Faceplates/[t] Logo LED diffuser.stl>) | [Faceplate - BARF LED - Front.stl](<../STL/Faceplates/Faceplate - BARF LED - Front.stl>) <br/> [Faceplate - BARF LED - Rear - Low.stl](<../STL/Faceplates/Faceplate - BARF LED - Rear - Low.stl>)  <br/> [[t] Logo BARF LED diffuser.stl](<../STL/Faceplates/[t] Logo BARF LED diffuser.stl>) |
- |*DropEffect XG only|`DropEffect XG original Faceplate` <br/> [Faceplate - Original - XG.stl](<../STL/Faceplates/Faceplate - Original - XG.stl>)  ||
- 
+ ### Faceplate
+There's only one option for the faceplate now. If you don't want an LED in the status light area, print the "diffuser" in a contrasting colour to the main faceplate part to show off the Xol logo.
+* [Faceplate.stl](../STL/Faceplate/Faceplate.stl)
+* [[t] Logo LED diffuser.stl](<../STL/Faceplate/[t] Logo LED diffuser.stl>) `Clear/translucent for diffuser, or contrasting colour for no LED`
 
 
  #### EBB 36 Mount
@@ -98,29 +95,14 @@ Some Trident installs require a different right hand duct to prevent contact wit
 |Orbiter v2.0 | [EBB36 Mount - Orbiter2.0.stl](<../STL/EBB Mounts/EBB36 Mount - Orbiter2.0.stl>) | [EBB36 Mount - Orbiter2.0 [strain relief].stl](<../STL/EBB Mounts/EBB36 Mount - Orbiter2.0 [strain relief].stl>) |
 
 
+### M2.5 Savers
+ Add a little colour, and protect your delicate 4010 blower fans <br/>
+* [[a]_M2.5_saver_x4.stl](../STL/Faceplate/[a]_M2.5_saver_x4.stl) `These aren't optional extras, you need them to protect your fans. Also the screw holes are too shalow without them`
 
 
-#### Probe Modules
- You want to probe it, right? <br/> `Probe length should match the duct length (standard or UHF)`
- |Probe|Standard Length|UHF Length|
- |---|---|---|
- | PCB Klicky | [Klicky_PCB_Module.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module.stl>) | [Klicky_PCB_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_PCB_Module_UHF.stl>) |
- | Klicky | [Klicky_Module.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_Module.stl>) | [Klicky_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Klicky_Module_UHF.stl>) |
- | KlickyNG | [KlickyNG_Module.stl](<../STL/Xol-Carriage/Probe Modules/KlickyNG_Module.stl>) <br/>`*non-standard carriage front`| N/A |
- | Beacon Rev H | [Beacon_H_Module.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_H_Module.stl>) | [Beacon_H_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_H_Module_UHF.stl>) |
- | Beacon Rev D| [Beacon_Module.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_Module.stl>) | [Beacon_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Beacon_Module_UHF.stl>) |
- | Euclid | [Euclid_Module.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module.stl>) | [Euclid_Module_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module_UHF.stl>) |
- | Euclid rotated 90° | [Euclid_Module_90.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module_90.stl>) | [Euclid_Module_90_UHF.stl](<../STL/Xol-Carriage/Probe Modules/Euclid_Module_90_UHF.stl>) |
- | Voron TAP | Almost had you| Ask Voron Design|
-
-
-
-
-#### M2 Savers
- Add a little colour, and protect some M2 SHCS from stripping <br/>
-[[a]M2x10 Saver_4x.stl](<../STL/Faceplates/[a]M2x10 Saver_4x.stl>)
-
-
+### Trident stepper spacer
+On some Trident printers, the leadscrews are slightly too high and may collide with the Xol ducts when the toolhead is at the very front corners of the printer (usually only the right side when homing at Y,0). <br/>
+To avoid this colision, there is a spacer available on printables that will lower the leadscrew stepper motors: [https://www.printables.com/model/486638-voron-trident-z-steppers-spacers](https://www.printables.com/model/486638-voron-trident-z-steppers-spacers)
 
 <br/><br/><br/><br/>
 
