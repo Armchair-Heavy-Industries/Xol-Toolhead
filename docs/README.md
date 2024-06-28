@@ -5,7 +5,7 @@ Xol Toolhead is the evolution of 'Mantis Xol 2' (<https://github.com/Armchair-En
 Aimed at modularity and quality of life improvements for installation and serviceability.<br/>
 We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still a bit ugly. We wouldn't fix that.
 
-Project lead: [DW-Tas](https://github.com/DW-Tas)
+Project lead: [![ko-fi](assets/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
@@ -161,7 +161,11 @@ Project lead: [DW-Tas](https://github.com/DW-Tas)
 * [AnnexEngineering](https://github.com/Annex-Engineering) for the Sherpa Mini and Double Folded Ascender extruders, and the K3 that influenced the air management of the ducts. And also for giving access to an early revision of the DFA so it could be adapted for this toolhead.
 * [clee](https://github.com/clee), you know what you did.
 
-<br/><br/><br/><br/>
+<br/><br/>
+You can help support the development of Armchair projects.<br/>
+Donate at https://ko-fi.com/armchair<br/>
+[![ko-fi](assets/images/Ko-fi_TextLogo.png)](https://ko-fi.com/armchair)
+<br/> <br/>
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
