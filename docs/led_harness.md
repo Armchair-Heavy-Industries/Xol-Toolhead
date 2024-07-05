@@ -5,6 +5,7 @@
 > Known compatible sources:<br/>
 > RGBW: [LAB4450 (EU)](https://lab4450.com/product/rgbw-sequins/)<br/>
 > RGBW: [Replimat[labs] (EU)](https://www.replimat.eu/4x-rgbw-sequins-for-xol-minisb/rt10179)<br/>
+> RGBW: [JB3D.uk (UK)](https://jb3d.uk/product/rgbw-sequin-led-sk6812/)<br/>
 > RGB:  [FYSETC (Ali Express)](https://www.aliexpress.com/item/1005006023213341.html)
 
 
