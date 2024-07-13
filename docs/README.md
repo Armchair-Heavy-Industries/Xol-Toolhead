@@ -25,7 +25,7 @@ Project lead: [![ko-fi](assets/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC
   * Carriage
     * Xol Carriage is now a single piece print
     * Belt clips are now the Archetype belt clip system
-    * Internal path added for probe wires (sorry, won't fit the fat Beacon USB cable)
+    * Internal path added for probe wires
 * BOM changes
   * Toolhead
     * Removed:
@@ -118,7 +118,7 @@ Project lead: [![ko-fi](assets/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC
 ### Probes
 * PCB Klicky
 * Klicky
-* Beacon
+* Beacon (Normal)
 * Euclid
 * Voron Design TAP `For RC8+ we suggest to use m3x50 BHCS instead of SHCS`<br/>
 * ⚠️ _KlickyNG support has been removed in this release_
