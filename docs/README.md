@@ -121,6 +121,7 @@ Project lead: [![ko-fi](assets/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC
 * Beacon (Normal)
 * Euclid
 * Voron Design TAP `For RC8+ we suggest to use m3x50 BHCS instead of SHCS`<br/>
+* BTT Eddy
 * ⚠️ _KlickyNG support has been removed in this release_
 
 ### X-Rail/Belts
