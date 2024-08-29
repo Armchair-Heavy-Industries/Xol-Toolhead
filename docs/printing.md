@@ -8,7 +8,7 @@ It is recommended to print a calibration part of a known size and adjust slicer 
 Making Xol easier to assemble also meant making the main hotend mount part a more difficult print. You will need to have a reasonably well callibrated printer (although it was tested on a barely tuned Ender 3). <br/>
 Some things in particular to note:
 * Support removal `If you're printing too hot or with insufficient cooling the built in supports may be difficult to remove.`
-* Overhangs `They're not too steep, but will be a problem if your not printing your perimeters "inside to outside".`
+* Overhangs `They're not too steep, but will be a problem if you're not printing your perimeters "inside to outside".`
 * Wall widths `Some of the supports have a built in "interface" layers. Make sure your printer profile allows printing of walls down to at least 0.4mm. Check that you can see them in your slicer before you print them. DO NOT use walls wider than 0.55mm`
 
 ## What to print
