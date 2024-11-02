@@ -21,10 +21,12 @@ Pick the parts you need from the lists below and follow the instructions in [xol
 Carriage Size
 * MGN12H: [Xol-Carriage_MGN12H.stl](../STL/Xol-Carriage/Xol-Carriage_MGN12H.stl)
 * MGN9H: [Xol-Carriage_MGN9H.stl](../STL/Xol-Carriage/Xol-Carriage_MGN9H.stl)
+* MGN9H (Front rail Printers for Ants [PFA]): [Xol-Carriage_MGN9H_PFA.stl](../STL/Xol-Carriage/Xol-Carriage_MGN9H_PFA.stl)
 
 Belt Width
 * 6MM: [[a]_belt_clamp_6mm_x2.stl](../STL/Xol-Carriage/[a]_belt_clamp_6mm_x2.stl)
 * 9MM: [[a]_belt_clamp_9mm_x2.stl](../STL/Xol-Carriage/[a]_belt_clamp_9mm_x2.stl)
+* 6MM (Front rail Printers for Ants [PFA]): [[a]_belt_clamp_6mm_PFA_x2.stl](../STL/Xol-Carriage/[a]_belt_clamp_6mm_PFA_x2.stl)
 
 Probe Modules
 * Pick the module to match your supported probe from the [Probe Modules](<../STL/Xol-Carriage/Probe Modules>) folder. <br/>
