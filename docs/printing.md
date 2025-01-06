@@ -91,6 +91,7 @@ There's only one option for the faceplate now. If you don't want an LED in the s
 | Extruder | Without strain relief | With strain relief|
 |-----|------|------|
 |Sherpa-Mini |[EBB36 Mount - Sherpa-Mini.stl](<../STL/EBB Mounts/EBB36 Mount - Sherpa-Mini.stl>)|[EBB36 Mount - Sherpa-Mini [strain relief].stl](<../STL/EBB Mounts/EBB36 Mount - Sherpa-Mini [strain relief].stl>) |
+|WW-BMG |[EBB36 Mount - WWBMG.stl](<../STL/EBB Mounts/EBB36 Mount - WWBMG.stl>)|[EBB36 Mount -WWBMG [strain relief].stl](<../STL/EBB Mounts/EBB36 Mount -WWBMG [strain relief].stl>)
 |DFA | {todo} | {todo} |
 | Galileo 2SA | {todo} | {todo} |
 | Escapement | {todo} | {todo} |
